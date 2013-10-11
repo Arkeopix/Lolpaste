@@ -1,0 +1,418 @@
+[Fri Oct 11 17:32:57 2013] [info] Listening at "http://*:3000".
+[Fri Oct 11 17:43:31 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 17:43:31 2013] [debug] GET "/".
+[Fri Oct 11 17:43:32 2013] [debug] Routing to a callback.
+[Fri Oct 11 17:43:32 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 17:43:32 2013] [debug] 200 OK (0.003582s, 279.174/s).
+[Fri Oct 11 17:43:42 2013] [debug] GET "/".
+[Fri Oct 11 17:43:42 2013] [debug] Routing to a callback.
+[Fri Oct 11 17:43:42 2013] [debug] Rendering cached template "form.html.ep" from DATA section.
+[Fri Oct 11 17:43:42 2013] [debug] 200 OK (0.000583s, 1715.266/s).
+[Fri Oct 11 18:42:24 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 18:42:24 2013] [debug] GET "/".
+[Fri Oct 11 18:42:24 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:42:24 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 18:42:24 2013] [error] Missing right curly or square bracket at template form.html.ep from DATA section line 4, at end of line
+syntax error at template form.html.ep from DATA section line 4, at EOF
+1: %=t h1 => 'Paste'
+2: %= form_for '/process' => (method => 'post') => begin
+3:   Login: <%= text_field 'Login' %>
+4:   Text: <%= text_area 'Text', cols => 40  
+
+[Fri Oct 11 18:42:24 2013] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 11 18:42:24 2013] [debug] Template "exception.html.ep" not found.
+[Fri Oct 11 18:42:24 2013] [debug] Rendering inline template.
+[Fri Oct 11 18:42:24 2013] [debug] Rendering inline template.
+[Fri Oct 11 18:42:24 2013] [debug] 500 Internal Server Error (0.026176s, 38.203/s).
+[Fri Oct 11 18:43:38 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 18:43:38 2013] [debug] GET "/".
+[Fri Oct 11 18:43:38 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:43:38 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 18:43:38 2013] [debug] 200 OK (0.004954s, 201.857/s).
+[Fri Oct 11 18:43:46 2013] [debug] GET "/".
+[Fri Oct 11 18:43:46 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:43:46 2013] [debug] Rendering cached template "form.html.ep" from DATA section.
+[Fri Oct 11 18:43:46 2013] [debug] 200 OK (0.003553s, 281.452/s).
+[Fri Oct 11 18:44:15 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 18:44:15 2013] [debug] GET "/".
+[Fri Oct 11 18:44:15 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:44:15 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 18:44:15 2013] [error] syntax error at template form.html.ep from DATA section line 4, near "40 rows"
+1: %=t h1 => 'Paste'
+2: %= form_for '/process' => (method => 'post') => begin
+3:   Login: <%= text_field 'Login' %>
+4:   Text: <%= text_area 'Text', cols => 40 rows => 100 %>
+5:   %= submit_button 'click'
+6: %= end
+
+[Fri Oct 11 18:44:15 2013] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 11 18:44:15 2013] [debug] Template "exception.html.ep" not found.
+[Fri Oct 11 18:44:15 2013] [debug] Rendering inline template.
+[Fri Oct 11 18:44:15 2013] [debug] Rendering inline template.
+[Fri Oct 11 18:44:15 2013] [debug] 500 Internal Server Error (0.027774s, 36.005/s).
+[Fri Oct 11 18:44:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 18:44:26 2013] [debug] GET "/".
+[Fri Oct 11 18:44:26 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:44:26 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 18:44:26 2013] [debug] 200 OK (0.005921s, 168.890/s).
+[Fri Oct 11 18:44:36 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 18:44:36 2013] [debug] GET "/".
+[Fri Oct 11 18:44:36 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:44:36 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 18:44:36 2013] [debug] 200 OK (0.005293s, 188.929/s).
+[Fri Oct 11 18:44:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 18:44:48 2013] [debug] GET "/".
+[Fri Oct 11 18:44:48 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:44:48 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 18:44:48 2013] [debug] 200 OK (0.004161s, 240.327/s).
+[Fri Oct 11 18:44:56 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 18:44:56 2013] [debug] GET "/".
+[Fri Oct 11 18:44:56 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:44:56 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 18:44:56 2013] [debug] 200 OK (0.004174s, 239.578/s).
+[Fri Oct 11 18:45:03 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 18:45:03 2013] [debug] GET "/".
+[Fri Oct 11 18:45:03 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:45:03 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 18:45:03 2013] [debug] 200 OK (0.005391s, 185.494/s).
+[Fri Oct 11 18:46:24 2013] [debug] GET "/".
+[Fri Oct 11 18:46:24 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:46:24 2013] [debug] Rendering cached template "form.html.ep" from DATA section.
+[Fri Oct 11 18:46:24 2013] [debug] 200 OK (0.003165s, 315.956/s).
+[Fri Oct 11 18:46:42 2013] [debug] POST "/process".
+[Fri Oct 11 18:46:42 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 11 18:46:42 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 11 18:46:42 2013] [debug] Rendering inline template.
+[Fri Oct 11 18:46:42 2013] [debug] Rendering inline template.
+[Fri Oct 11 18:46:42 2013] [debug] 404 Not Found (0.017679s, 56.564/s).
+[Fri Oct 11 18:48:23 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 18:48:23 2013] [debug] GET "/".
+[Fri Oct 11 18:48:23 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:48:23 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 18:48:23 2013] [debug] 200 OK (0.004288s, 233.209/s).
+[Fri Oct 11 18:48:25 2013] [debug] GET "/".
+[Fri Oct 11 18:48:25 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:48:25 2013] [debug] Rendering cached template "form.html.ep" from DATA section.
+[Fri Oct 11 18:48:25 2013] [debug] 200 OK (0.001837s, 544.366/s).
+[Fri Oct 11 18:48:27 2013] [debug] GET "/".
+[Fri Oct 11 18:48:27 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:48:27 2013] [debug] Rendering cached template "form.html.ep" from DATA section.
+[Fri Oct 11 18:48:27 2013] [debug] 200 OK (0.001129s, 885.740/s).
+[Fri Oct 11 18:52:30 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 18:52:30 2013] [debug] GET "/".
+[Fri Oct 11 18:52:30 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:52:30 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 18:52:30 2013] [debug] 200 OK (0.007249s, 137.950/s).
+[Fri Oct 11 18:52:34 2013] [debug] POST "/process".
+[Fri Oct 11 18:52:34 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:52:34 2013] [debug] 200 OK (0.000942s, 1061.571/s).
+[Fri Oct 11 18:55:01 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 18:55:01 2013] [debug] GET "/".
+[Fri Oct 11 18:55:01 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:55:01 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 18:55:01 2013] [debug] 200 OK (0.005472s, 182.749/s).
+[Fri Oct 11 18:55:04 2013] [debug] POST "/process".
+[Fri Oct 11 18:55:04 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:55:04 2013] [debug] 200 OK (0.000898s, 1113.586/s).
+[Fri Oct 11 18:55:12 2013] [debug] POST "/process".
+[Fri Oct 11 18:55:12 2013] [debug] Routing to a callback.
+[Fri Oct 11 18:55:12 2013] [debug] 200 OK (0.000393s, 2544.529/s).
+[Fri Oct 11 19:35:26 2013] [info] Listening at "http://*:3000".
+[Fri Oct 11 19:35:41 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 19:35:41 2013] [debug] GET "/".
+[Fri Oct 11 19:35:41 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:35:41 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 19:35:41 2013] [debug] 200 OK (0.005236s, 190.985/s).
+[Fri Oct 11 19:35:46 2013] [debug] POST "/process".
+[Fri Oct 11 19:35:46 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:35:46 2013] [debug] 200 OK (0.002890s, 346.021/s).
+[Fri Oct 11 19:35:51 2013] [debug] POST "/process".
+[Fri Oct 11 19:35:51 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:35:51 2013] [debug] 200 OK (0.000378s, 2645.503/s).
+[Fri Oct 11 19:40:29 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 19:40:29 2013] [debug] GET "/".
+[Fri Oct 11 19:40:29 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:40:29 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 19:40:29 2013] [debug] 200 OK (0.003764s, 265.675/s).
+[Fri Oct 11 19:40:29 2013] [debug] GET "/".
+[Fri Oct 11 19:40:29 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:40:29 2013] [debug] Rendering cached template "form.html.ep" from DATA section.
+[Fri Oct 11 19:40:29 2013] [debug] 200 OK (0.001343s, 744.602/s).
+[Fri Oct 11 19:40:35 2013] [debug] GET "/".
+[Fri Oct 11 19:40:35 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:40:35 2013] [debug] Rendering cached template "form.html.ep" from DATA section.
+[Fri Oct 11 19:40:35 2013] [debug] 200 OK (0.001223s, 817.661/s).
+[Fri Oct 11 19:40:52 2013] [debug] POST "/process".
+[Fri Oct 11 19:40:52 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:40:52 2013] [debug] 200 OK (0.000672s, 1488.095/s).
+[Fri Oct 11 19:41:19 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 19:41:19 2013] [debug] GET "/".
+[Fri Oct 11 19:41:19 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:41:19 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 19:41:19 2013] [debug] 200 OK (0.006196s, 161.394/s).
+[Fri Oct 11 19:41:24 2013] [debug] POST "/process".
+[Fri Oct 11 19:41:24 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:41:24 2013] [debug] 200 OK (0.000926s, 1079.914/s).
+[Fri Oct 11 19:41:55 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 19:41:55 2013] [debug] GET "/".
+[Fri Oct 11 19:41:55 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:41:55 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 19:41:55 2013] [debug] 200 OK (0.005004s, 199.840/s).
+[Fri Oct 11 19:42:00 2013] [debug] POST "/process".
+[Fri Oct 11 19:42:00 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:42:00 2013] [debug] 200 OK (0.000678s, 1474.926/s).
+[Fri Oct 11 19:42:31 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 19:42:31 2013] [debug] GET "/".
+[Fri Oct 11 19:42:31 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:42:31 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 19:42:31 2013] [debug] 200 OK (0.004800s, 208.333/s).
+[Fri Oct 11 19:42:37 2013] [debug] POST "/process".
+[Fri Oct 11 19:42:37 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:42:37 2013] [debug] 200 OK (0.000581s, 1721.170/s).
+[Fri Oct 11 19:42:46 2013] [debug] POST "/process".
+[Fri Oct 11 19:42:46 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:42:46 2013] [debug] 200 OK (0.000592s, 1689.189/s).
+[Fri Oct 11 19:42:54 2013] [debug] GET "/".
+[Fri Oct 11 19:42:54 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:42:54 2013] [debug] Rendering cached template "form.html.ep" from DATA section.
+[Fri Oct 11 19:42:54 2013] [debug] 200 OK (0.001268s, 788.644/s).
+[Fri Oct 11 19:56:58 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 19:56:58 2013] [debug] GET "/".
+[Fri Oct 11 19:56:58 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:56:58 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 19:56:58 2013] [debug] 200 OK (0.004780s, 209.205/s).
+[Fri Oct 11 19:57:04 2013] [debug] POST "/process".
+[Fri Oct 11 19:57:04 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:57:04 2013] [debug] 200 OK (0.002440s, 409.836/s).
+[Fri Oct 11 19:59:00 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 19:59:00 2013] [debug] POST "/process".
+[Fri Oct 11 19:59:00 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:59:00 2013] [debug] 200 OK (0.000723s, 1383.126/s).
+[Fri Oct 11 19:59:35 2013] [debug] POST "/process".
+[Fri Oct 11 19:59:35 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:59:35 2013] [debug] 200 OK (0.000416s, 2403.846/s).
+[Fri Oct 11 19:59:38 2013] [debug] POST "/process".
+[Fri Oct 11 19:59:38 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:59:38 2013] [debug] 200 OK (0.001911s, 523.286/s).
+[Fri Oct 11 19:59:51 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 19:59:51 2013] [debug] POST "/process".
+[Fri Oct 11 19:59:51 2013] [debug] Routing to a callback.
+[Fri Oct 11 19:59:51 2013] [debug] 200 OK (0.000835s, 1197.605/s).
+[Fri Oct 11 20:01:30 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:01:30 2013] [debug] POST "/process".
+[Fri Oct 11 20:01:30 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:01:30 2013] [debug] 200 OK (0.000928s, 1077.586/s).
+[Fri Oct 11 20:01:35 2013] [debug] POST "/process".
+[Fri Oct 11 20:01:35 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:01:35 2013] [debug] 200 OK (0.000631s, 1584.786/s).
+[Fri Oct 11 20:05:18 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:05:18 2013] [debug] POST "/process".
+[Fri Oct 11 20:05:18 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:05:18 2013] [debug] 200 OK (0.001129s, 885.740/s).
+[Fri Oct 11 20:11:45 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:11:45 2013] [debug] POST "/process".
+[Fri Oct 11 20:11:45 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:11:45 2013] [debug] Template "process.html.ep" not found.
+[Fri Oct 11 20:11:45 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Fri Oct 11 20:11:46 2013] [debug] POST "/process".
+[Fri Oct 11 20:11:46 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:11:46 2013] [debug] Template "process.html.ep" not found.
+[Fri Oct 11 20:11:46 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Fri Oct 11 20:11:54 2013] [debug] POST "/process".
+[Fri Oct 11 20:11:54 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:11:54 2013] [debug] Template "process.html.ep" not found.
+[Fri Oct 11 20:11:54 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Fri Oct 11 20:12:09 2013] [debug] Inactivity timeout.
+[Fri Oct 11 20:14:13 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:14:13 2013] [debug] GET "/files/lol".
+[Fri Oct 11 20:14:13 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 11 20:14:13 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 11 20:14:13 2013] [debug] Rendering inline template.
+[Fri Oct 11 20:14:13 2013] [debug] Rendering inline template.
+[Fri Oct 11 20:14:13 2013] [debug] 404 Not Found (0.014520s, 68.871/s).
+[Fri Oct 11 20:16:42 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:16:42 2013] [debug] POST "/process".
+[Fri Oct 11 20:16:42 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:16:42 2013] [debug] 302 Found (0.001381s, 724.113/s).
+[Fri Oct 11 20:16:42 2013] [debug] GET "/".
+[Fri Oct 11 20:16:42 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:16:42 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 20:16:42 2013] [debug] 200 OK (0.003781s, 264.480/s).
+[Fri Oct 11 20:16:59 2013] [debug] POST "/process".
+[Fri Oct 11 20:16:59 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:16:59 2013] [debug] 302 Found (0.033268s, 30.059/s).
+[Fri Oct 11 20:16:59 2013] [debug] GET "/".
+[Fri Oct 11 20:16:59 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:16:59 2013] [debug] Rendering cached template "form.html.ep" from DATA section.
+[Fri Oct 11 20:16:59 2013] [debug] 200 OK (0.001060s, 943.396/s).
+[Fri Oct 11 20:20:43 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:20:43 2013] [debug] POST "/process".
+[Fri Oct 11 20:20:43 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:20:43 2013] [error] Can't locate object method "new" via package "URI" (perhaps you forgot to load "URI"?) at paste.pl line 21.
+
+[Fri Oct 11 20:20:43 2013] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 11 20:20:43 2013] [debug] Template "exception.html.ep" not found.
+[Fri Oct 11 20:20:43 2013] [debug] Rendering inline template.
+[Fri Oct 11 20:20:43 2013] [debug] Rendering inline template.
+[Fri Oct 11 20:20:43 2013] [debug] 500 Internal Server Error (0.021123s, 47.342/s).
+[Fri Oct 11 20:22:03 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:22:03 2013] [debug] POST "/process".
+[Fri Oct 11 20:22:03 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:22:03 2013] [debug] 302 Found (0.001503s, 665.336/s).
+[Fri Oct 11 20:22:03 2013] [debug] GET "/files/fanny".
+[Fri Oct 11 20:22:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 11 20:22:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 11 20:22:03 2013] [debug] Rendering inline template.
+[Fri Oct 11 20:22:03 2013] [debug] Rendering inline template.
+[Fri Oct 11 20:22:03 2013] [debug] 404 Not Found (0.014623s, 68.385/s).
+[Fri Oct 11 20:22:30 2013] [debug] POST "/process".
+[Fri Oct 11 20:22:30 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:22:30 2013] [debug] 302 Found (0.000803s, 1245.330/s).
+[Fri Oct 11 20:22:30 2013] [debug] GET "/files/fanny".
+[Fri Oct 11 20:22:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 11 20:22:30 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 11 20:22:30 2013] [debug] Rendering cached inline template.
+[Fri Oct 11 20:22:30 2013] [debug] Rendering cached inline template.
+[Fri Oct 11 20:22:30 2013] [debug] 404 Not Found (0.007890s, 126.743/s).
+[Fri Oct 11 20:25:32 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:25:32 2013] [debug] POST "/process".
+[Fri Oct 11 20:25:32 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:25:32 2013] [debug] 302 Found (0.001301s, 768.640/s).
+[Fri Oct 11 20:25:32 2013] [debug] GET "/files/fanny".
+[Fri Oct 11 20:25:32 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:25:32 2013] [debug] 200 OK (0.000446s, 2242.152/s).
+[Fri Oct 11 20:26:26 2013] [debug] GET "/files/fanny/oufzor".
+[Fri Oct 11 20:26:26 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:26:26 2013] [debug] 200 OK (0.000407s, 2457.002/s).
+[Fri Oct 11 20:26:34 2013] [debug] GET "/".
+[Fri Oct 11 20:26:34 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:26:34 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 20:26:34 2013] [debug] 200 OK (0.007752s, 128.999/s).
+[Fri Oct 11 20:26:42 2013] [debug] POST "/process".
+[Fri Oct 11 20:26:42 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:26:42 2013] [debug] 302 Found (0.001188s, 841.751/s).
+[Fri Oct 11 20:26:42 2013] [debug] GET "/files/lol".
+[Fri Oct 11 20:26:42 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:26:42 2013] [debug] 200 OK (0.000457s, 2188.184/s).
+[Fri Oct 11 20:28:57 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:28:57 2013] [debug] POST "/process".
+[Fri Oct 11 20:28:57 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:28:57 2013] [debug] 302 Found (0.002418s, 413.565/s).
+[Fri Oct 11 20:28:57 2013] [debug] GET "/files/lol".
+[Fri Oct 11 20:28:57 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 11 20:28:57 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 11 20:28:57 2013] [debug] Rendering inline template.
+[Fri Oct 11 20:28:57 2013] [debug] Rendering inline template.
+[Fri Oct 11 20:28:57 2013] [debug] 404 Not Found (0.013084s, 76.429/s).
+[Fri Oct 11 20:29:22 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:29:22 2013] [debug] POST "/process".
+[Fri Oct 11 20:29:22 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:29:22 2013] [debug] 302 Found (0.001376s, 726.744/s).
+[Fri Oct 11 20:29:22 2013] [debug] GET "/files/lol".
+[Fri Oct 11 20:29:22 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:29:22 2013] [debug] 200 OK (0.000545s, 1834.862/s).
+[Fri Oct 11 20:29:25 2013] [debug] GET "/files/lol/lol".
+[Fri Oct 11 20:29:25 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:29:25 2013] [debug] 200 OK (0.000641s, 1560.062/s).
+[Fri Oct 11 20:29:32 2013] [debug] GET "/files/lol/lol/poil".
+[Fri Oct 11 20:29:32 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:29:32 2013] [debug] 200 OK (0.000431s, 2320.186/s).
+[Fri Oct 11 20:30:17 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:30:17 2013] [debug] POST "/process".
+[Fri Oct 11 20:30:17 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:30:17 2013] [debug] 302 Found (0.001282s, 780.031/s).
+[Fri Oct 11 20:30:17 2013] [debug] GET "/files/lol".
+[Fri Oct 11 20:30:17 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:30:17 2013] [debug] 200 OK (0.000456s, 2192.982/s).
+[Fri Oct 11 20:30:25 2013] [debug] POST "/process".
+[Fri Oct 11 20:30:25 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:30:25 2013] [debug] 302 Found (0.001405s, 711.744/s).
+[Fri Oct 11 20:30:25 2013] [debug] GET "/files/lol".
+[Fri Oct 11 20:30:25 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:30:25 2013] [debug] 200 OK (0.000266s, 3759.398/s).
+[Fri Oct 11 20:30:38 2013] [debug] POST "/process".
+[Fri Oct 11 20:30:38 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:30:38 2013] [debug] 302 Found (0.001753s, 570.451/s).
+[Fri Oct 11 20:30:38 2013] [debug] GET "/files/mdr".
+[Fri Oct 11 20:30:38 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:30:38 2013] [debug] 200 OK (0.000402s, 2487.562/s).
+[Fri Oct 11 20:30:46 2013] [debug] POST "/process".
+[Fri Oct 11 20:30:46 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:30:46 2013] [debug] 302 Found (0.001348s, 741.840/s).
+[Fri Oct 11 20:30:47 2013] [debug] GET "/files/mdr".
+[Fri Oct 11 20:30:47 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:30:47 2013] [debug] 200 OK (0.000835s, 1197.605/s).
+[Fri Oct 11 20:30:53 2013] [debug] GET "/files/mdr/haha".
+[Fri Oct 11 20:30:53 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 11 20:30:53 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 11 20:30:53 2013] [debug] Rendering inline template.
+[Fri Oct 11 20:30:53 2013] [debug] Rendering inline template.
+[Fri Oct 11 20:30:53 2013] [debug] 404 Not Found (0.018611s, 53.732/s).
+[Fri Oct 11 20:31:00 2013] [debug] POST "/process".
+[Fri Oct 11 20:31:00 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:31:00 2013] [debug] 302 Found (0.003264s, 306.373/s).
+[Fri Oct 11 20:31:00 2013] [debug] GET "/files/mdr".
+[Fri Oct 11 20:31:00 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:31:00 2013] [debug] 200 OK (0.000446s, 2242.152/s).
+[Fri Oct 11 20:32:32 2013] [debug] POST "/process".
+[Fri Oct 11 20:32:32 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:32:32 2013] [debug] 302 Found (0.001522s, 657.030/s).
+[Fri Oct 11 20:32:32 2013] [debug] GET "/files/mdr".
+[Fri Oct 11 20:32:32 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:32:32 2013] [debug] 200 OK (0.000259s, 3861.004/s).
+[Fri Oct 11 20:33:39 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:33:39 2013] [debug] POST "/process".
+[Fri Oct 11 20:33:39 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:33:39 2013] [debug] 302 Found (0.001360s, 735.294/s).
+[Fri Oct 11 20:33:39 2013] [debug] GET "/files/mdr".
+[Fri Oct 11 20:33:39 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:33:39 2013] [debug] 200 OK (0.000486s, 2057.613/s).
+[Fri Oct 11 20:42:52 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:42:52 2013] [debug] POST "/process".
+[Fri Oct 11 20:42:52 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:42:52 2013] [debug] 302 Found (0.002365s, 422.833/s).
+[Fri Oct 11 20:42:52 2013] [debug] GET "/files/mdr".
+[Fri Oct 11 20:42:52 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:42:52 2013] [debug] 200 OK (0.000577s, 1733.102/s).
+[Fri Oct 11 20:43:03 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:43:03 2013] [debug] POST "/process".
+[Fri Oct 11 20:43:03 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:43:03 2013] [debug] 302 Found (0.006161s, 162.311/s).
+[Fri Oct 11 20:43:03 2013] [debug] GET "/files/mdr".
+[Fri Oct 11 20:43:03 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:43:03 2013] [debug] 200 OK (0.000471s, 2123.142/s).
+[Fri Oct 11 20:43:53 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:43:53 2013] [debug] POST "/process".
+[Fri Oct 11 20:43:53 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:43:53 2013] [debug] 302 Found (0.001478s, 676.590/s).
+[Fri Oct 11 20:43:53 2013] [debug] GET "/files/mdr".
+[Fri Oct 11 20:43:53 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:43:53 2013] [debug] 200 OK (0.001182s, 846.024/s).
+[Fri Oct 11 20:44:13 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:44:13 2013] [debug] GET "/files/mdr".
+[Fri Oct 11 20:44:13 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:44:13 2013] [debug] 200 OK (0.000949s, 1053.741/s).
+[Fri Oct 11 20:44:27 2013] [debug] POST "/process".
+[Fri Oct 11 20:44:27 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:44:27 2013] [debug] 302 Found (0.004200s, 238.095/s).
+[Fri Oct 11 20:44:27 2013] [debug] GET "/files/fanny".
+[Fri Oct 11 20:44:27 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:44:27 2013] [debug] 200 OK (0.000411s, 2433.090/s).
+[Fri Oct 11 20:54:45 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:54:45 2013] [debug] GET "/".
+[Fri Oct 11 20:54:45 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:54:45 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Fri Oct 11 20:54:45 2013] [debug] 200 OK (0.006427s, 155.594/s).
+[Fri Oct 11 20:54:53 2013] [debug] POST "/process".
+[Fri Oct 11 20:54:53 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:54:53 2013] [debug] 302 Found (0.001200s, 833.333/s).
+[Fri Oct 11 20:54:53 2013] [debug] GET "/files/haha".
+[Fri Oct 11 20:54:53 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:54:53 2013] [debug] 200 OK (0.000645s, 1550.388/s).
+[Fri Oct 11 20:56:47 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 11 20:56:47 2013] [debug] GET "/files/fanny".
+[Fri Oct 11 20:56:47 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:56:47 2013] [debug] 200 OK (0.000947s, 1055.966/s).
+[Fri Oct 11 20:57:11 2013] [debug] GET "/files/poil".
+[Fri Oct 11 20:57:11 2013] [debug] Routing to a callback.
+[Fri Oct 11 20:57:11 2013] [debug] 200 OK (0.000866s, 1154.734/s).
