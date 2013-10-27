@@ -56,14 +56,57 @@ body {
 
 #lol {
     position:		absolute;
-    margin-left:	10%;
+    margin-left:	15%;
 }
 
 #pasted {
-    width:		55%;
-    margin-top:		10%;
-    margin:		auto;
+    min-width:		50%;
+    max-width:		70%;
+    min-height:		25%;
+    max-height:		70%;
+    position:		absolute;
+    overflow:		scroll;
+    top:		15%;
+    left:		15%;
     border-radius:	10px;
     background-color:	#FFFFFF;
     padding:		3px 3px 10px 10px;
 }
+
+/****************************************************/
+/*****************CSS for Scrollbars******************/
+
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-button:start:decrement,
+
+::-webkit-scrollbar-button:end:increment {
+    display: block;
+    height: 10px;
+}
+
+::-webkit-scrollbar-button:vertical:increment {
+    background-color: #fff;
+}
+
+::-webkit-scrollbar-track-piece {
+    background-color: #eee;
+    -webkit-border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    height: 50px;
+    background-color: #ccc;
+    -webkit-border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:horizontal {
+    width: 50px;
+    background-color: #ccc;
+    -webkit-border-radius: 3px;
+}
+
