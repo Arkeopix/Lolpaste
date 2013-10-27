@@ -73,40 +73,49 @@ body {
     padding:		3px 3px 10px 10px;
 }
 
-/****************************************************/
+/*****************************************************/
+/****************CSS for Footer***********************/
+#donation {
+    position:		absolute;
+    bottom:		2px;
+    height:		100px;
+    width:		90%;
+}
+
+/*****************************************************/
 /*****************CSS for Scrollbars******************/
 
 
 ::-webkit-scrollbar {
-    width: 10px;
-    height: 10px;
+    width:		10px;
+    height:		10px;
 }
 
 ::-webkit-scrollbar-button:start:decrement,
 
 ::-webkit-scrollbar-button:end:increment {
-    display: block;
-    height: 10px;
+    display:		block;
+    height:		10px;
 }
 
 ::-webkit-scrollbar-button:vertical:increment {
-    background-color: #fff;
+    background-color:	#fff;
 }
 
 ::-webkit-scrollbar-track-piece {
-    background-color: #eee;
+    background-color:	#eee;
     -webkit-border-radius: 3px;
 }
 
 ::-webkit-scrollbar-thumb:vertical {
-    height: 50px;
-    background-color: #ccc;
+    height:		50px;
+    background-color:	#ccc;
     -webkit-border-radius: 3px;
 }
 
 ::-webkit-scrollbar-thumb:horizontal {
-    width: 50px;
-    background-color: #ccc;
+    width:		50px;
+    background-color:	#ccc;
     -webkit-border-radius: 3px;
 }
 
