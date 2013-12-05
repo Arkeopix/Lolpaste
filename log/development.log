@@ -1,0 +1,2468 @@
+[Sun Oct 13 11:16:17 2013] [info] Listening at "http://*:3000".
+[Sun Oct 13 11:24:27 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 11:24:27 2013] [debug] GET "/".
+[Sun Oct 13 11:24:27 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:24:27 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Sun Oct 13 11:24:27 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 11:24:27 2013] [debug] 200 OK (0.080729s, 12.387/s).
+[Sun Oct 13 11:27:41 2013] [debug] POST "/process".
+[Sun Oct 13 11:27:41 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:27:41 2013] [debug] 302 Found (0.019312s, 51.781/s).
+[Sun Oct 13 11:27:41 2013] [debug] GET "/files/mdr".
+[Sun Oct 13 11:27:41 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:27:41 2013] [debug] 200 OK (0.001491s, 670.691/s).
+[Sun Oct 13 11:29:08 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 11:29:08 2013] [debug] GET "/".
+[Sun Oct 13 11:29:08 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:29:08 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Sun Oct 13 11:29:08 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 11:29:08 2013] [debug] 200 OK (0.007411s, 134.935/s).
+[Sun Oct 13 11:29:09 2013] [debug] GET "/".
+[Sun Oct 13 11:29:09 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:29:09 2013] [debug] Rendering cached template "form.html.ep" from DATA section.
+[Sun Oct 13 11:29:09 2013] [debug] Rendering cached template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 11:29:09 2013] [debug] 200 OK (0.002135s, 468.384/s).
+[Sun Oct 13 11:29:10 2013] [debug] GET "/".
+[Sun Oct 13 11:29:10 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:29:10 2013] [debug] Rendering cached template "form.html.ep" from DATA section.
+[Sun Oct 13 11:29:10 2013] [debug] Rendering cached template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 11:29:10 2013] [debug] 200 OK (0.001687s, 592.768/s).
+[Sun Oct 13 11:33:11 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 11:33:11 2013] [debug] GET "/".
+[Sun Oct 13 11:33:11 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:33:11 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Sun Oct 13 11:33:11 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 11:33:11 2013] [debug] 200 OK (0.010345s, 96.665/s).
+[Sun Oct 13 11:33:15 2013] [debug] POST "/process".
+[Sun Oct 13 11:33:15 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:33:15 2013] [debug] 302 Found (0.005372s, 186.150/s).
+[Sun Oct 13 11:33:15 2013] [debug] GET "/files/lol".
+[Sun Oct 13 11:33:15 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:33:15 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 11:33:15 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 11:33:15 2013] [debug] 200 OK (0.003915s, 255.428/s).
+[Sun Oct 13 11:33:15 2013] [debug] GET "/files/style.css".
+[Sun Oct 13 11:33:15 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:33:15 2013] [debug] 200 OK (0.000454s, 2202.643/s).
+[Sun Oct 13 11:33:15 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 11:33:15 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 11:34:15 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 11:34:15 2013] [debug] POST "/process".
+[Sun Oct 13 11:34:15 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:34:15 2013] [debug] 302 Found (0.001460s, 684.932/s).
+[Sun Oct 13 11:34:15 2013] [debug] GET "/files/lol".
+[Sun Oct 13 11:34:15 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:34:15 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 11:34:15 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 11:34:15 2013] [debug] 200 OK (0.006278s, 159.286/s).
+[Sun Oct 13 11:34:15 2013] [debug] GET "/files/style.css".
+[Sun Oct 13 11:34:15 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:34:15 2013] [debug] 200 OK (0.001176s, 850.340/s).
+[Sun Oct 13 11:34:15 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 11:34:15 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 11:35:20 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 11:35:20 2013] [debug] GET "/files/lol".
+[Sun Oct 13 11:35:20 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:35:20 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 11:35:20 2013] [error] syntax error at template pasted.html.ep from DATA section line 3, near "p 'lol'"
+1: %layout 'default';
+2: %=t  'LolPaste'
+3:   %= p 'lol'
+
+[Sun Oct 13 11:35:20 2013] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 13 11:35:20 2013] [debug] Template "exception.html.ep" not found.
+[Sun Oct 13 11:35:20 2013] [debug] Rendering inline template.
+[Sun Oct 13 11:35:20 2013] [debug] Rendering inline template.
+[Sun Oct 13 11:35:20 2013] [debug] 500 Internal Server Error (0.074043s, 13.506/s).
+[Sun Oct 13 11:37:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 11:37:04 2013] [debug] GET "/".
+[Sun Oct 13 11:37:04 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:37:04 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Sun Oct 13 11:37:04 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 11:37:04 2013] [debug] 200 OK (0.007258s, 137.779/s).
+[Sun Oct 13 11:37:09 2013] [debug] POST "/process".
+[Sun Oct 13 11:37:09 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:37:09 2013] [debug] 302 Found (0.001169s, 855.432/s).
+[Sun Oct 13 11:37:09 2013] [debug] GET "/files/haha".
+[Sun Oct 13 11:37:09 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:37:09 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 11:37:09 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 11:37:09 2013] [debug] 200 OK (0.009965s, 100.351/s).
+[Sun Oct 13 11:37:09 2013] [debug] GET "/files/style.css".
+[Sun Oct 13 11:37:09 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:37:09 2013] [debug] 200 OK (0.000472s, 2118.644/s).
+[Sun Oct 13 11:37:09 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 11:37:09 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 11:42:28 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 11:42:28 2013] [debug] POST "/process".
+[Sun Oct 13 11:42:28 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:42:28 2013] [debug] 302 Found (0.001275s, 784.314/s).
+[Sun Oct 13 11:42:28 2013] [debug] GET "/files/haha".
+[Sun Oct 13 11:42:28 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:42:28 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 11:42:28 2013] [error] syntax error at template pasted.html.ep from DATA section line 3, near "paragraph 'lol'"
+1: %layout 'default';
+2: %=t  'LolPaste'
+3:   %== paragraph 'lol'
+
+[Sun Oct 13 11:42:28 2013] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 13 11:42:28 2013] [debug] Template "exception.html.ep" not found.
+[Sun Oct 13 11:42:28 2013] [debug] Rendering inline template.
+[Sun Oct 13 11:42:28 2013] [debug] Rendering inline template.
+[Sun Oct 13 11:42:28 2013] [debug] 500 Internal Server Error (0.022127s, 45.194/s).
+[Sun Oct 13 11:47:58 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 11:47:58 2013] [debug] GET "/".
+[Sun Oct 13 11:47:58 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:47:58 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Sun Oct 13 11:47:58 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 11:47:58 2013] [debug] 200 OK (0.005814s, 171.999/s).
+[Sun Oct 13 11:53:54 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 11:53:54 2013] [debug] GET "/".
+[Sun Oct 13 11:53:54 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:53:54 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Sun Oct 13 11:53:54 2013] [error] Bareword "div" not allowed while "strict subs" in use at template form.html.ep from DATA section line 14.
+9:     %= label_for Text => 'Text:'
+10:     %= text_area 'Text', rows => 10, id =>'flex'
+11:     <br/>
+12:     %= submit_button 'click', id => 'button'
+13:     %= end
+14:    <% end %>
+
+[Sun Oct 13 11:53:54 2013] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 13 11:53:54 2013] [debug] Template "exception.html.ep" not found.
+[Sun Oct 13 11:53:54 2013] [debug] Rendering inline template.
+[Sun Oct 13 11:53:54 2013] [debug] Rendering inline template.
+[Sun Oct 13 11:53:54 2013] [debug] 500 Internal Server Error (0.023057s, 43.371/s).
+[Sun Oct 13 11:55:30 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 11:55:30 2013] [debug] GET "/".
+[Sun Oct 13 11:55:30 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:55:30 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Sun Oct 13 11:55:30 2013] [error] syntax error at template form.html.ep from DATA section line 3, near "div id"
+syntax error at template form.html.ep from DATA section line 14, near "} }"
+9:     %= label_for Text => 'Text:'
+10:     %= text_area 'Text', rows => 10, id =>'flex'
+11:     <br/>
+12:     %= submit_button 'click', id => 'button'
+13:     %= end
+14:    <% end %>
+
+[Sun Oct 13 11:55:30 2013] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 13 11:55:30 2013] [debug] Template "exception.html.ep" not found.
+[Sun Oct 13 11:55:30 2013] [debug] Rendering inline template.
+[Sun Oct 13 11:55:30 2013] [debug] Rendering inline template.
+[Sun Oct 13 11:55:30 2013] [debug] 500 Internal Server Error (0.025206s, 39.673/s).
+[Sun Oct 13 11:55:56 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 11:55:56 2013] [debug] GET "/".
+[Sun Oct 13 11:55:56 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:55:56 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Sun Oct 13 11:55:56 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 11:55:56 2013] [debug] 200 OK (0.006973s, 143.410/s).
+[Sun Oct 13 11:56:40 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 11:56:40 2013] [debug] POST "/process".
+[Sun Oct 13 11:56:40 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:56:40 2013] [debug] 302 Found (0.001263s, 791.766/s).
+[Sun Oct 13 11:56:40 2013] [debug] GET "/files/lol".
+[Sun Oct 13 11:56:40 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:56:40 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 11:56:40 2013] [error] Global symbol "$text" requires explicit package name at template pasted.html.ep from DATA section line 4.
+1: %layout 'default';
+2: %=t  'LolPaste'
+3:   <div id="pasted">
+4:   <%= $text %>
+5:   </div>
+
+[Sun Oct 13 11:56:40 2013] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 13 11:56:40 2013] [debug] Template "exception.html.ep" not found.
+[Sun Oct 13 11:56:40 2013] [debug] Rendering inline template.
+[Sun Oct 13 11:56:40 2013] [debug] Rendering inline template.
+[Sun Oct 13 11:56:40 2013] [debug] 500 Internal Server Error (0.021013s, 47.590/s).
+[Sun Oct 13 11:59:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 11:59:44 2013] [debug] POST "/process".
+[Sun Oct 13 11:59:44 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:59:44 2013] [debug] 302 Found (0.001844s, 542.299/s).
+[Sun Oct 13 11:59:44 2013] [debug] GET "/files/lol".
+[Sun Oct 13 11:59:44 2013] [debug] Routing to a callback.
+[Sun Oct 13 11:59:44 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 11:59:44 2013] [debug] 200 OK (0.000693s, 1443.001/s).
+[Sun Oct 13 12:11:11 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:11:11 2013] [debug] GET "/".
+[Sun Oct 13 12:11:11 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:11:11 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Sun Oct 13 12:11:11 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 12:11:11 2013] [debug] 200 OK (0.006535s, 153.022/s).
+[Sun Oct 13 12:11:17 2013] [debug] POST "/process".
+[Sun Oct 13 12:11:17 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:11:17 2013] [debug] 302 Found (0.003281s, 304.785/s).
+[Sun Oct 13 12:11:17 2013] [debug] GET "/files/lol".
+[Sun Oct 13 12:11:17 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:11:17 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:11:17 2013] [debug] 200 OK (0.001404s, 712.251/s).
+[Sun Oct 13 12:11:36 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:11:36 2013] [debug] GET "/files/lol".
+[Sun Oct 13 12:11:36 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:11:36 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:11:36 2013] [debug] 200 OK (0.000717s, 1394.700/s).
+[Sun Oct 13 12:11:38 2013] [debug] GET "/files/lol".
+[Sun Oct 13 12:11:38 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:11:38 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:11:38 2013] [debug] 200 OK (0.001421s, 703.730/s).
+[Sun Oct 13 12:11:41 2013] [debug] POST "/process".
+[Sun Oct 13 12:11:41 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:11:41 2013] [debug] 302 Found (0.005826s, 171.644/s).
+[Sun Oct 13 12:11:41 2013] [debug] GET "/files/lol".
+[Sun Oct 13 12:11:41 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:11:41 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:11:41 2013] [debug] 200 OK (0.001146s, 872.600/s).
+[Sun Oct 13 12:12:08 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:12:08 2013] [debug] POST "/process".
+[Sun Oct 13 12:12:08 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:12:08 2013] [debug] 302 Found (0.001794s, 557.414/s).
+[Sun Oct 13 12:12:08 2013] [debug] GET "/files/lol".
+[Sun Oct 13 12:12:08 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:12:08 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:12:08 2013] [debug] 200 OK (0.000539s, 1855.288/s).
+[Sun Oct 13 12:12:32 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:12:32 2013] [debug] POST "/process".
+[Sun Oct 13 12:12:32 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:12:32 2013] [debug] 302 Found (0.003778s, 264.690/s).
+[Sun Oct 13 12:12:32 2013] [debug] GET "/files/lol".
+[Sun Oct 13 12:12:32 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:12:32 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:12:32 2013] [debug] 200 OK (0.000813s, 1230.012/s).
+[Sun Oct 13 12:12:36 2013] [debug] GET "/".
+[Sun Oct 13 12:12:36 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:12:36 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Sun Oct 13 12:12:36 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 12:12:36 2013] [debug] 200 OK (0.014294s, 69.959/s).
+[Sun Oct 13 12:12:42 2013] [debug] POST "/process".
+[Sun Oct 13 12:12:42 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:12:42 2013] [debug] 302 Found (0.003126s, 319.898/s).
+[Sun Oct 13 12:12:42 2013] [debug] GET "/files/lol".
+[Sun Oct 13 12:12:42 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:12:42 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:12:42 2013] [debug] 200 OK (0.001172s, 853.242/s).
+[Sun Oct 13 12:13:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:13:07 2013] [debug] GET "/".
+[Sun Oct 13 12:13:07 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:13:07 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Sun Oct 13 12:13:07 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 12:13:07 2013] [debug] 200 OK (0.008036s, 124.440/s).
+[Sun Oct 13 12:13:12 2013] [debug] POST "/process".
+[Sun Oct 13 12:13:12 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:13:12 2013] [debug] 302 Found (0.004513s, 221.582/s).
+[Sun Oct 13 12:13:12 2013] [debug] GET "/files/l".
+[Sun Oct 13 12:13:12 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:13:12 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:13:12 2013] [debug] 200 OK (0.000510s, 1960.784/s).
+[Sun Oct 13 12:13:54 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:13:54 2013] [debug] POST "/process".
+[Sun Oct 13 12:13:54 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:13:54 2013] [debug] 302 Found (0.001892s, 528.541/s).
+[Sun Oct 13 12:13:54 2013] [debug] GET "/files/l".
+[Sun Oct 13 12:13:54 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:13:54 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:13:54 2013] [debug] 200 OK (0.000546s, 1831.502/s).
+[Sun Oct 13 12:13:57 2013] [debug] GET "/".
+[Sun Oct 13 12:13:57 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:13:57 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Sun Oct 13 12:13:57 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 12:13:57 2013] [debug] 200 OK (0.015500s, 64.516/s).
+[Sun Oct 13 12:14:03 2013] [debug] POST "/process".
+[Sun Oct 13 12:14:03 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:14:03 2013] [debug] 302 Found (0.002066s, 484.027/s).
+[Sun Oct 13 12:14:03 2013] [debug] GET "/files/caca".
+[Sun Oct 13 12:14:03 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:14:03 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:14:03 2013] [debug] 200 OK (0.000490s, 2040.816/s).
+[Sun Oct 13 12:14:41 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:14:41 2013] [debug] GET "/".
+[Sun Oct 13 12:14:41 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:14:41 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Sun Oct 13 12:14:41 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 12:14:41 2013] [debug] 200 OK (0.010416s, 96.006/s).
+[Sun Oct 13 12:14:48 2013] [debug] POST "/process".
+[Sun Oct 13 12:14:48 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:14:48 2013] [debug] 302 Found (0.001850s, 540.541/s).
+[Sun Oct 13 12:14:48 2013] [debug] GET "/files/haha1".
+[Sun Oct 13 12:14:48 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:14:48 2013] [debug] 200 OK (0.000441s, 2267.574/s).
+[Sun Oct 13 12:14:48 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:15:43 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:15:43 2013] [debug] GET "/files/haha1".
+[Sun Oct 13 12:15:43 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:15:43 2013] [debug] 200 OK (0.000830s, 1204.819/s).
+[Sun Oct 13 12:15:43 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:15:46 2013] [debug] POST "/process".
+[Sun Oct 13 12:15:46 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:15:46 2013] [debug] 302 Found (0.001985s, 503.778/s).
+[Sun Oct 13 12:15:46 2013] [debug] GET "/files/haha/lol".
+[Sun Oct 13 12:15:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Oct 13 12:15:46 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Oct 13 12:15:46 2013] [debug] Rendering inline template.
+[Sun Oct 13 12:15:46 2013] [debug] Rendering inline template.
+[Sun Oct 13 12:15:46 2013] [debug] 404 Not Found (0.012478s, 80.141/s).
+[Sun Oct 13 12:16:11 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:16:11 2013] [debug] POST "/process".
+[Sun Oct 13 12:16:11 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:16:11 2013] [debug] 302 Found (0.003061s, 326.691/s).
+[Sun Oct 13 12:16:11 2013] [debug] GET "/files/haha/lol".
+[Sun Oct 13 12:16:11 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:16:11 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:16:11 2013] [debug] 200 OK (0.000552s, 1811.594/s).
+[Sun Oct 13 12:16:28 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:16:28 2013] [debug] POST "/process".
+[Sun Oct 13 12:16:28 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:16:28 2013] [debug] 302 Found (0.001664s, 600.962/s).
+[Sun Oct 13 12:16:28 2013] [debug] GET "/files/haha/lol".
+[Sun Oct 13 12:16:28 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:16:28 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:16:28 2013] [debug] 200 OK (0.000536s, 1865.672/s).
+[Sun Oct 13 12:18:10 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:18:10 2013] [debug] POST "/process".
+[Sun Oct 13 12:18:10 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:18:10 2013] [debug] 302 Found (0.001853s, 539.665/s).
+[Sun Oct 13 12:18:10 2013] [debug] GET "/files/haha/lol".
+[Sun Oct 13 12:18:10 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:18:10 2013] [debug] Template "foobarlol.html.ep" not found.
+[Sun Oct 13 12:18:10 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sun Oct 13 12:18:12 2013] [debug] POST "/process".
+[Sun Oct 13 12:18:12 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:18:12 2013] [debug] 302 Found (0.000866s, 1154.734/s).
+[Sun Oct 13 12:18:12 2013] [debug] GET "/files/haha/lol".
+[Sun Oct 13 12:18:12 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:18:12 2013] [debug] Template "foobarlol.html.ep" not found.
+[Sun Oct 13 12:18:12 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sun Oct 13 12:18:30 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:18:30 2013] [debug] POST "/process".
+[Sun Oct 13 12:18:30 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:18:30 2013] [debug] 302 Found (0.001229s, 813.670/s).
+[Sun Oct 13 12:18:30 2013] [debug] GET "/files/haha/lol".
+[Sun Oct 13 12:18:30 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:18:30 2013] [debug] Template "foobarlol.html.ep" not found.
+[Sun Oct 13 12:18:30 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sun Oct 13 12:18:39 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:18:39 2013] [debug] POST "/process".
+[Sun Oct 13 12:18:39 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:18:39 2013] [debug] 302 Found (0.001597s, 626.174/s).
+[Sun Oct 13 12:18:39 2013] [debug] GET "/files/haha/lol".
+[Sun Oct 13 12:18:39 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:18:39 2013] [debug] Template "foobarlol.html.ep" not found.
+[Sun Oct 13 12:18:39 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sun Oct 13 12:18:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:18:48 2013] [debug] POST "/process".
+[Sun Oct 13 12:18:48 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:18:48 2013] [debug] 302 Found (0.001642s, 609.013/s).
+[Sun Oct 13 12:18:48 2013] [debug] GET "/files/haha/lol".
+[Sun Oct 13 12:18:48 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:18:48 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:18:48 2013] [debug] 200 OK (0.000549s, 1821.494/s).
+[Sun Oct 13 12:20:53 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:20:53 2013] [debug] POST "/process".
+[Sun Oct 13 12:20:53 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:20:53 2013] [debug] 302 Found (0.001737s, 575.705/s).
+[Sun Oct 13 12:20:53 2013] [debug] GET "/files/haha/lol".
+[Sun Oct 13 12:20:53 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:20:53 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:20:53 2013] [debug] 200 OK (0.000565s, 1769.912/s).
+[Sun Oct 13 12:21:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:21:04 2013] [debug] POST "/process".
+[Sun Oct 13 12:21:04 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:21:04 2013] [debug] 302 Found (0.001218s, 821.018/s).
+[Sun Oct 13 12:21:04 2013] [debug] GET "/files/haha/lol".
+[Sun Oct 13 12:21:04 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:21:04 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:21:04 2013] [debug] 200 OK (0.000581s, 1721.170/s).
+[Sun Oct 13 12:23:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:23:44 2013] [debug] POST "/process".
+[Sun Oct 13 12:23:44 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:23:44 2013] [debug] 302 Found (0.001928s, 518.672/s).
+[Sun Oct 13 12:23:44 2013] [debug] GET "/files/haha/lol".
+[Sun Oct 13 12:23:44 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:23:44 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:23:44 2013] [debug] 200 OK (0.000653s, 1531.394/s).
+[Sun Oct 13 12:27:59 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:27:59 2013] [debug] POST "/process".
+[Sun Oct 13 12:27:59 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:27:59 2013] [debug] 302 Found (0.001185s, 843.882/s).
+[Sun Oct 13 12:27:59 2013] [debug] GET "/files/haha".
+[Sun Oct 13 12:27:59 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:27:59 2013] [debug] Template "foobar.html.ep" not found.
+[Sun Oct 13 12:27:59 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sun Oct 13 12:28:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:28:07 2013] [debug] POST "/process".
+[Sun Oct 13 12:28:07 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:28:07 2013] [debug] 302 Found (0.001785s, 560.224/s).
+[Sun Oct 13 12:28:07 2013] [debug] GET "/files/haha".
+[Sun Oct 13 12:28:07 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:28:07 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:28:07 2013] [debug] 200 OK (0.000539s, 1855.288/s).
+[Sun Oct 13 12:28:34 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:28:34 2013] [debug] POST "/process".
+[Sun Oct 13 12:28:34 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:28:34 2013] [debug] 302 Found (0.001163s, 859.845/s).
+[Sun Oct 13 12:28:34 2013] [debug] GET "/files/haha".
+[Sun Oct 13 12:28:34 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:28:34 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:28:34 2013] [debug] 200 OK (0.000770s, 1298.701/s).
+[Sun Oct 13 12:40:29 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:40:29 2013] [debug] GET "/".
+[Sun Oct 13 12:40:29 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:40:29 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Sun Oct 13 12:40:29 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 12:40:29 2013] [debug] 200 OK (0.006965s, 143.575/s).
+[Sun Oct 13 12:40:35 2013] [debug] POST "/process".
+[Sun Oct 13 12:40:35 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:40:35 2013] [debug] 302 Found (0.004000s, 250.000/s).
+[Sun Oct 13 12:40:35 2013] [debug] GET "/files/lol".
+[Sun Oct 13 12:40:35 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:40:35 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:40:35 2013] [debug] 200 OK (0.001538s, 650.195/s).
+[Sun Oct 13 12:41:21 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:41:21 2013] [debug] POST "/process".
+[Sun Oct 13 12:41:21 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:41:21 2013] [debug] 302 Found (0.001735s, 576.369/s).
+[Sun Oct 13 12:41:21 2013] [debug] GET "/files/lol".
+[Sun Oct 13 12:41:21 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:41:21 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:41:21 2013] [debug] 200 OK (0.000605s, 1652.893/s).
+[Sun Oct 13 12:59:40 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:59:40 2013] [debug] GET "/".
+[Sun Oct 13 12:59:40 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:59:40 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Sun Oct 13 12:59:40 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 12:59:40 2013] [debug] 200 OK (0.005777s, 173.100/s).
+[Sun Oct 13 12:59:50 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 12:59:50 2013] [debug] POST "/process".
+[Sun Oct 13 12:59:50 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:59:50 2013] [debug] 302 Found (0.343522s, 2.911/s).
+[Sun Oct 13 12:59:50 2013] [debug] GET "/files/lol".
+[Sun Oct 13 12:59:50 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:59:50 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 12:59:50 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 12:59:50 2013] [error] Global symbol "$text" requires explicit package name at template pasted.html.ep from DATA section line 5.
+1: %layout 'default';
+2: %=t  'LolPaste'
+3:   <p>Here is your paste !</p>
+4:   <div id="pasted">
+5:   <%= $text %>
+6:   </div>
+
+[Sun Oct 13 12:59:50 2013] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 13 12:59:50 2013] [debug] Template "exception.html.ep" not found.
+[Sun Oct 13 12:59:50 2013] [debug] Rendering inline template.
+[Sun Oct 13 12:59:50 2013] [debug] Rendering inline template.
+[Sun Oct 13 12:59:50 2013] [debug] 500 Internal Server Error (0.027171s, 36.804/s).
+[Sun Oct 13 12:59:55 2013] [debug] GET "/".
+[Sun Oct 13 12:59:55 2013] [debug] Routing to a callback.
+[Sun Oct 13 12:59:55 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Sun Oct 13 12:59:55 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 12:59:55 2013] [debug] 200 OK (0.008212s, 121.773/s).
+[Sun Oct 13 13:00:03 2013] [debug] POST "/process".
+[Sun Oct 13 13:00:03 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:00:03 2013] [debug] 302 Found (0.001413s, 707.714/s).
+[Sun Oct 13 13:00:03 2013] [debug] GET "/files/lol".
+[Sun Oct 13 13:00:03 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:00:03 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 13:00:03 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:00:03 2013] [error] Global symbol "$text" requires explicit package name at template pasted.html.ep from DATA section line 5.
+1: %layout 'default';
+2: %=t  'LolPaste'
+3:   <p>Here is your paste !</p>
+4:   <div id="pasted">
+5:   <%= $text %>
+6:   </div>
+
+[Sun Oct 13 13:00:03 2013] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 13 13:00:03 2013] [debug] Template "exception.html.ep" not found.
+[Sun Oct 13 13:00:03 2013] [debug] Rendering cached inline template.
+[Sun Oct 13 13:00:03 2013] [debug] Rendering cached inline template.
+[Sun Oct 13 13:00:03 2013] [debug] 500 Internal Server Error (0.009160s, 109.170/s).
+[Sun Oct 13 13:01:38 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:01:38 2013] [debug] POST "/process".
+[Sun Oct 13 13:01:38 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:01:38 2013] [debug] 302 Found (0.001653s, 604.961/s).
+[Sun Oct 13 13:01:38 2013] [debug] GET "/files/lol".
+[Sun Oct 13 13:01:38 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:01:38 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 13:01:38 2013] [debug] Template "foobar.html.ep" not found.
+[Sun Oct 13 13:01:38 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Oct 13 13:01:38 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Oct 13 13:01:38 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:01:38 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:01:38 2013] [debug] 404 Not Found (0.017792s, 56.205/s).
+[Sun Oct 13 13:01:45 2013] [debug] POST "/process".
+[Sun Oct 13 13:01:45 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:01:45 2013] [debug] 302 Found (0.001362s, 734.214/s).
+[Sun Oct 13 13:01:45 2013] [debug] GET "/files/lol".
+[Sun Oct 13 13:01:45 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:01:45 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 13:01:45 2013] [debug] Template "foobar.html.ep" not found.
+[Sun Oct 13 13:01:45 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Oct 13 13:01:45 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Oct 13 13:01:45 2013] [debug] Rendering cached inline template.
+[Sun Oct 13 13:01:45 2013] [debug] Rendering cached inline template.
+[Sun Oct 13 13:01:45 2013] [debug] 404 Not Found (0.005621s, 177.904/s).
+[Sun Oct 13 13:01:55 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:01:55 2013] [debug] POST "/process".
+[Sun Oct 13 13:01:55 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:01:55 2013] [debug] 302 Found (0.001225s, 816.327/s).
+[Sun Oct 13 13:01:55 2013] [debug] GET "/files/lol".
+[Sun Oct 13 13:01:55 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:01:55 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 13:01:55 2013] [debug] Template "foobar.html.ep" not found.
+[Sun Oct 13 13:01:55 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Oct 13 13:01:55 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Oct 13 13:01:55 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:01:55 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:01:55 2013] [debug] 404 Not Found (0.016798s, 59.531/s).
+[Sun Oct 13 13:03:42 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:03:42 2013] [debug] POST "/process".
+[Sun Oct 13 13:03:42 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:03:42 2013] [debug] 302 Found (0.001931s, 517.866/s).
+[Sun Oct 13 13:03:42 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:03:42 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:03:42 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 13:03:42 2013] [debug] Template "foobar.html.ep" not found.
+[Sun Oct 13 13:03:42 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Oct 13 13:03:42 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Oct 13 13:03:42 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:03:42 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:03:42 2013] [debug] 404 Not Found (0.012893s, 77.561/s).
+[Sun Oct 13 13:04:09 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:04:09 2013] [debug] POST "/process".
+[Sun Oct 13 13:04:09 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:04:09 2013] [debug] 302 Found (0.002115s, 472.813/s).
+[Sun Oct 13 13:04:09 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:04:09 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:04:09 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 13:04:09 2013] [debug] Template "foobar.html.ep" not found.
+[Sun Oct 13 13:04:09 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Oct 13 13:04:09 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Oct 13 13:04:09 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:04:09 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:04:09 2013] [debug] 404 Not Found (0.013118s, 76.231/s).
+[Sun Oct 13 13:05:27 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:05:27 2013] [debug] POST "/process".
+[Sun Oct 13 13:05:27 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:05:27 2013] [debug] 302 Found (0.001631s, 613.121/s).
+[Sun Oct 13 13:05:27 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:05:27 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:05:27 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 13:05:27 2013] [debug] 200 OK (0.000628s, 1592.357/s).
+[Sun Oct 13 13:05:42 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:05:42 2013] [debug] POST "/process".
+[Sun Oct 13 13:05:42 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:05:42 2013] [debug] 302 Found (0.001148s, 871.080/s).
+[Sun Oct 13 13:05:42 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:05:42 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:05:42 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 13:05:42 2013] [debug] 200 OK (0.000530s, 1886.792/s).
+[Sun Oct 13 13:06:33 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:06:33 2013] [debug] POST "/process".
+[Sun Oct 13 13:06:33 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:06:33 2013] [debug] 302 Found (0.002475s, 404.040/s).
+[Sun Oct 13 13:06:33 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:06:33 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:06:33 2013] [debug] Careful, "text" is a reserved stash value.
+[Sun Oct 13 13:06:33 2013] [debug] 200 OK (0.000830s, 1204.819/s).
+[Sun Oct 13 13:17:55 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:17:55 2013] [debug] POST "/process".
+[Sun Oct 13 13:17:55 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:17:55 2013] [debug] 302 Found (0.001071s, 933.707/s).
+[Sun Oct 13 13:27:23 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:27:23 2013] [debug] POST "/process".
+[Sun Oct 13 13:27:23 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:27:23 2013] [debug] 302 Found (0.001191s, 839.631/s).
+[Sun Oct 13 13:27:23 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:27:23 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:27:23 2013] [error] Can't locate object method "renderh" via package "Mojolicious::Controller" at paste.pl line 18.
+
+[Sun Oct 13 13:27:23 2013] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 13 13:27:23 2013] [debug] Template "exception.html.ep" not found.
+[Sun Oct 13 13:27:23 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:27:23 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:27:23 2013] [debug] 500 Internal Server Error (0.019566s, 51.109/s).
+[Sun Oct 13 13:27:50 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:27:50 2013] [debug] POST "/process".
+[Sun Oct 13 13:27:50 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:27:50 2013] [debug] 302 Found (0.001175s, 851.064/s).
+[Sun Oct 13 13:27:50 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:27:50 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:27:50 2013] [debug] 200 OK (0.000627s, 1594.896/s).
+[Sun Oct 13 13:28:13 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:28:13 2013] [debug] POST "/process".
+[Sun Oct 13 13:28:13 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:28:13 2013] [debug] 302 Found (0.004032s, 248.016/s).
+[Sun Oct 13 13:28:13 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:28:13 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:28:13 2013] [debug] 200 OK (0.000489s, 2044.990/s).
+[Sun Oct 13 13:28:55 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:28:55 2013] [debug] POST "/process".
+[Sun Oct 13 13:28:55 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:28:55 2013] [debug] 302 Found (0.001217s, 821.693/s).
+[Sun Oct 13 13:28:55 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:28:55 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:28:55 2013] [debug] 200 OK (0.000525s, 1904.762/s).
+[Sun Oct 13 13:29:35 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:29:35 2013] [debug] POST "/process".
+[Sun Oct 13 13:29:35 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:29:35 2013] [debug] 302 Found (0.001245s, 803.213/s).
+[Sun Oct 13 13:29:35 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:29:35 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:29:35 2013] [debug] 200 OK (0.000517s, 1934.236/s).
+[Sun Oct 13 13:31:06 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:31:06 2013] [debug] POST "/process".
+[Sun Oct 13 13:31:06 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:31:06 2013] [debug] 302 Found (0.002674s, 373.972/s).
+[Sun Oct 13 13:31:06 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:31:06 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:31:06 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:31:06 2013] [error] Global symbol "$text" requires explicit package name at template pasted.html.ep from DATA section line 5.
+syntax error at template pasted.html.ep from DATA section line 5, near "/>"
+1: %layout 'default';
+2: %=t  'LolPaste'
+3:   <p>Here is your paste !</p>
+4:   <div id="pasted">
+5:   %= $text<br/>
+6:   <p>mdr</p>
+7:   </div>
+
+[Sun Oct 13 13:31:06 2013] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 13 13:31:06 2013] [debug] Template "exception.html.ep" not found.
+[Sun Oct 13 13:31:06 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:31:06 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:31:06 2013] [debug] 500 Internal Server Error (0.024206s, 41.312/s).
+[Sun Oct 13 13:31:23 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:31:23 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:31:23 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:31:23 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:31:23 2013] [error] syntax error at template pasted.html.ep from DATA section line 5, near "/>"
+1: %layout 'default';
+2: %=t  'LolPaste'
+3:   <p>Here is your paste !</p>
+4:   <div id="pasted">
+5:   %= $html<br/>
+6:   <p>mdr</p>
+7:   </div>
+
+[Sun Oct 13 13:31:23 2013] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 13 13:31:23 2013] [debug] Template "exception.html.ep" not found.
+[Sun Oct 13 13:31:23 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:31:23 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:31:23 2013] [debug] 500 Internal Server Error (0.022482s, 44.480/s).
+[Sun Oct 13 13:31:31 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:31:31 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:31:31 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:31:31 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:31:31 2013] [error] syntax error at template pasted.html.ep from DATA section line 5, near "/>"
+1: %layout 'default';
+2: %=t  'LolPaste'
+3:   <p>Here is your paste !</p>
+4:   <div id="pasted">
+5:   %= $html <br/>
+6:   <p>mdr</p>
+7:   </div>
+
+[Sun Oct 13 13:31:31 2013] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 13 13:31:31 2013] [debug] Template "exception.html.ep" not found.
+[Sun Oct 13 13:31:31 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:31:31 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:31:31 2013] [debug] 500 Internal Server Error (0.022878s, 43.710/s).
+[Sun Oct 13 13:31:36 2013] [debug] POST "/process".
+[Sun Oct 13 13:31:36 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:31:36 2013] [debug] 302 Found (0.001153s, 867.303/s).
+[Sun Oct 13 13:31:36 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:31:36 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:31:36 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:31:36 2013] [error] syntax error at template pasted.html.ep from DATA section line 5, near "/>"
+1: %layout 'default';
+2: %=t  'LolPaste'
+3:   <p>Here is your paste !</p>
+4:   <div id="pasted">
+5:   %= $html <br/>
+6:   <p>mdr</p>
+7:   </div>
+
+[Sun Oct 13 13:31:36 2013] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 13 13:31:36 2013] [debug] Template "exception.html.ep" not found.
+[Sun Oct 13 13:31:36 2013] [debug] Rendering cached inline template.
+[Sun Oct 13 13:31:36 2013] [debug] Rendering cached inline template.
+[Sun Oct 13 13:31:36 2013] [debug] 500 Internal Server Error (0.013345s, 74.934/s).
+[Sun Oct 13 13:32:02 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:32:02 2013] [debug] POST "/process".
+[Sun Oct 13 13:32:02 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:32:02 2013] [debug] 302 Found (0.001345s, 743.494/s).
+[Sun Oct 13 13:32:02 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:32:02 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:32:02 2013] [debug] 200 OK (0.000503s, 1988.072/s).
+[Sun Oct 13 13:32:22 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:32:22 2013] [debug] POST "/process".
+[Sun Oct 13 13:32:22 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:32:22 2013] [debug] 302 Found (0.001261s, 793.021/s).
+[Sun Oct 13 13:32:22 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:32:22 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:32:22 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:32:22 2013] [error] syntax error at template pasted.html.ep from DATA section line 5, near "/>"
+1: %layout 'default';
+2: %=t  'LolPaste'
+3:   <p>Here is your paste !</p>
+4:   <div id="pasted">
+5:   %= $mdr <br/>
+6:   <p>mdr</p>
+7:   </div>
+
+[Sun Oct 13 13:32:22 2013] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 13 13:32:22 2013] [debug] Template "exception.html.ep" not found.
+[Sun Oct 13 13:32:22 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:32:22 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:32:22 2013] [debug] 500 Internal Server Error (0.026069s, 38.360/s).
+[Sun Oct 13 13:33:47 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:33:47 2013] [debug] POST "/process".
+[Sun Oct 13 13:33:47 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:33:47 2013] [debug] 302 Found (0.001331s, 751.315/s).
+[Sun Oct 13 13:33:47 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:33:47 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:33:47 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:33:47 2013] [error] syntax error at template pasted.html.ep from DATA section line 5, near "/>"
+1: %layout 'default';
+2: %=t  'LolPaste'
+3:   <p>Here is your paste !</p>
+4:   <div id="pasted">
+5:   %= $poil <br/>
+6:   <p>mdr</p>
+7:   </div>
+
+[Sun Oct 13 13:33:47 2013] [debug] Template "exception.development.html.ep" not found.
+[Sun Oct 13 13:33:47 2013] [debug] Template "exception.html.ep" not found.
+[Sun Oct 13 13:33:47 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:33:47 2013] [debug] Rendering inline template.
+[Sun Oct 13 13:33:47 2013] [debug] 500 Internal Server Error (0.021708s, 46.066/s).
+[Sun Oct 13 13:34:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:34:07 2013] [debug] POST "/process".
+[Sun Oct 13 13:34:07 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:34:07 2013] [debug] 302 Found (0.001876s, 533.049/s).
+[Sun Oct 13 13:34:07 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:34:07 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:34:07 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:34:07 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 13:34:07 2013] [debug] 200 OK (0.004873s, 205.212/s).
+[Sun Oct 13 13:34:07 2013] [debug] GET "/files/style.css".
+[Sun Oct 13 13:34:07 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:34:07 2013] [debug] 200 OK (0.000668s, 1497.006/s).
+[Sun Oct 13 13:34:07 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:34:07 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 13:34:42 2013] [debug] POST "/process".
+[Sun Oct 13 13:34:42 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:34:42 2013] [debug] 302 Found (0.002832s, 353.107/s).
+[Sun Oct 13 13:34:42 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:34:42 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:34:42 2013] [debug] Rendering cached template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:34:42 2013] [debug] Rendering cached template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 13:34:42 2013] [debug] 200 OK (0.001263s, 791.766/s).
+[Sun Oct 13 13:34:42 2013] [debug] GET "/files/style.css".
+[Sun Oct 13 13:34:42 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:34:42 2013] [debug] 200 OK (0.000330s, 3030.303/s).
+[Sun Oct 13 13:34:42 2013] [debug] Rendering cached template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:34:42 2013] [debug] Rendering cached template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 13:34:57 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:34:57 2013] [debug] POST "/process".
+[Sun Oct 13 13:34:57 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:34:57 2013] [debug] 302 Found (0.001265s, 790.514/s).
+[Sun Oct 13 13:34:57 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:34:57 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:34:57 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:34:57 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 13:34:57 2013] [debug] 200 OK (0.004870s, 205.339/s).
+[Sun Oct 13 13:34:58 2013] [debug] GET "/files/style.css".
+[Sun Oct 13 13:34:58 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:34:58 2013] [debug] 200 OK (0.000487s, 2053.388/s).
+[Sun Oct 13 13:34:58 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:34:58 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 13:35:11 2013] [debug] POST "/process".
+[Sun Oct 13 13:35:11 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:35:11 2013] [debug] 302 Found (0.001383s, 723.066/s).
+[Sun Oct 13 13:35:11 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:35:11 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:35:11 2013] [debug] Rendering cached template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:35:11 2013] [debug] Rendering cached template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 13:35:11 2013] [debug] 200 OK (0.000903s, 1107.420/s).
+[Sun Oct 13 13:35:11 2013] [debug] GET "/files/style.css".
+[Sun Oct 13 13:35:11 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:35:11 2013] [debug] 200 OK (0.000490s, 2040.816/s).
+[Sun Oct 13 13:35:11 2013] [debug] Rendering cached template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:35:11 2013] [debug] Rendering cached template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 13:36:28 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:36:28 2013] [debug] POST "/process".
+[Sun Oct 13 13:36:28 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:36:28 2013] [debug] 302 Found (0.001349s, 741.290/s).
+[Sun Oct 13 13:36:28 2013] [debug] GET "/files/haha".
+[Sun Oct 13 13:36:28 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:36:28 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:36:28 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 13:36:28 2013] [debug] 200 OK (0.004992s, 200.321/s).
+[Sun Oct 13 13:36:28 2013] [debug] GET "/files/style.css".
+[Sun Oct 13 13:36:28 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:36:28 2013] [debug] 200 OK (0.000770s, 1298.701/s).
+[Sun Oct 13 13:36:28 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:36:28 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 13:41:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 13 13:41:48 2013] [debug] POST "/process".
+[Sun Oct 13 13:41:48 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:41:48 2013] [debug] 302 Found (0.001232s, 811.688/s).
+[Sun Oct 13 13:41:48 2013] [debug] GET "/files/Fanny".
+[Sun Oct 13 13:41:48 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:41:48 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:41:48 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Oct 13 13:41:48 2013] [debug] 200 OK (0.006228s, 160.565/s).
+[Sun Oct 13 13:41:48 2013] [debug] GET "/files/style.css".
+[Sun Oct 13 13:41:48 2013] [debug] Routing to a callback.
+[Sun Oct 13 13:41:48 2013] [debug] 200 OK (0.000719s, 1390.821/s).
+[Sun Oct 13 13:41:48 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Sun Oct 13 13:41:48 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Mon Oct 14 19:37:21 2013] [info] Listening at "http://*:3000".
+[Mon Oct 14 19:37:25 2013] [info] Listening at "http://*:3000".
+[Mon Oct 14 19:38:40 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Oct 14 19:38:40 2013] [debug] GET "/".
+[Mon Oct 14 19:38:40 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:38:40 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Mon Oct 14 19:38:40 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Mon Oct 14 19:38:40 2013] [debug] 200 OK (0.122809s, 8.143/s).
+[Mon Oct 14 19:38:49 2013] [debug] POST "/process".
+[Mon Oct 14 19:38:49 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:38:49 2013] [debug] 302 Found (0.036519s, 27.383/s).
+[Mon Oct 14 19:38:49 2013] [debug] GET "/files/haha".
+[Mon Oct 14 19:38:49 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:38:49 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Mon Oct 14 19:38:49 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Mon Oct 14 19:38:49 2013] [debug] 200 OK (0.014312s, 69.871/s).
+[Mon Oct 14 19:38:49 2013] [debug] GET "/files/style.css".
+[Mon Oct 14 19:38:49 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:38:49 2013] [debug] 200 OK (0.000473s, 2114.165/s).
+[Mon Oct 14 19:38:49 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Mon Oct 14 19:38:49 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Mon Oct 14 19:54:39 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Oct 14 19:54:39 2013] [debug] POST "/process".
+[Mon Oct 14 19:54:39 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:54:39 2013] [debug] 302 Found (0.001457s, 686.342/s).
+[Mon Oct 14 19:54:39 2013] [debug] GET "/files/haha".
+[Mon Oct 14 19:54:39 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:54:39 2013] [debug] Template "pasted.html.ep" not found.
+[Mon Oct 14 19:54:39 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Oct 14 19:54:39 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Oct 14 19:54:39 2013] [debug] Rendering inline template.
+[Mon Oct 14 19:54:39 2013] [debug] Rendering inline template.
+[Mon Oct 14 19:54:39 2013] [debug] 404 Not Found (0.019722s, 50.705/s).
+[Mon Oct 14 19:54:47 2013] [debug] POST "/process".
+[Mon Oct 14 19:54:47 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:54:47 2013] [debug] 302 Found (0.001038s, 963.391/s).
+[Mon Oct 14 19:54:47 2013] [debug] GET "/files/haha".
+[Mon Oct 14 19:54:47 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:54:47 2013] [debug] Template "pasted.html.ep" not found.
+[Mon Oct 14 19:54:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Oct 14 19:54:47 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Oct 14 19:54:47 2013] [debug] Rendering cached inline template.
+[Mon Oct 14 19:54:47 2013] [debug] Rendering cached inline template.
+[Mon Oct 14 19:54:47 2013] [debug] 404 Not Found (0.007577s, 131.978/s).
+[Mon Oct 14 19:54:57 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Oct 14 19:54:57 2013] [debug] POST "/process".
+[Mon Oct 14 19:54:57 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:54:57 2013] [debug] 302 Found (0.001867s, 535.619/s).
+[Mon Oct 14 19:54:57 2013] [debug] GET "/files/haha".
+[Mon Oct 14 19:54:57 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:54:57 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Mon Oct 14 19:54:57 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Mon Oct 14 19:54:57 2013] [debug] 200 OK (0.010515s, 95.102/s).
+[Mon Oct 14 19:54:57 2013] [debug] GET "/files/style.css".
+[Mon Oct 14 19:54:57 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:54:57 2013] [debug] 200 OK (0.000459s, 2178.649/s).
+[Mon Oct 14 19:54:57 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Mon Oct 14 19:54:57 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Mon Oct 14 19:55:17 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Oct 14 19:55:17 2013] [debug] POST "/process".
+[Mon Oct 14 19:55:17 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:55:17 2013] [debug] 302 Found (0.001193s, 838.223/s).
+[Mon Oct 14 19:55:17 2013] [debug] GET "/files/haha".
+[Mon Oct 14 19:55:17 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:55:17 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Mon Oct 14 19:55:17 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Mon Oct 14 19:55:17 2013] [debug] 200 OK (0.011052s, 90.481/s).
+[Mon Oct 14 19:55:17 2013] [debug] GET "/files/style.css".
+[Mon Oct 14 19:55:17 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:55:17 2013] [debug] 200 OK (0.000484s, 2066.116/s).
+[Mon Oct 14 19:55:17 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Mon Oct 14 19:55:17 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Mon Oct 14 19:55:19 2013] [debug] POST "/process".
+[Mon Oct 14 19:55:19 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:55:19 2013] [debug] 302 Found (0.000878s, 1138.952/s).
+[Mon Oct 14 19:55:19 2013] [debug] GET "/files/haha".
+[Mon Oct 14 19:55:19 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:55:19 2013] [debug] Rendering cached template "pasted.html.ep" from DATA section.
+[Mon Oct 14 19:55:19 2013] [debug] Rendering cached template "layouts/default.html.ep" from DATA section.
+[Mon Oct 14 19:55:19 2013] [debug] 200 OK (0.000899s, 1112.347/s).
+[Mon Oct 14 19:55:20 2013] [debug] GET "/files/style.css".
+[Mon Oct 14 19:55:20 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:55:20 2013] [debug] 200 OK (0.000402s, 2487.562/s).
+[Mon Oct 14 19:55:20 2013] [debug] Rendering cached template "pasted.html.ep" from DATA section.
+[Mon Oct 14 19:55:20 2013] [debug] Rendering cached template "layouts/default.html.ep" from DATA section.
+[Mon Oct 14 19:55:21 2013] [debug] GET "/".
+[Mon Oct 14 19:55:21 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:55:21 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Mon Oct 14 19:55:21 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Mon Oct 14 19:55:21 2013] [debug] 200 OK (0.005879s, 170.097/s).
+[Mon Oct 14 19:55:27 2013] [debug] POST "/process".
+[Mon Oct 14 19:55:27 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:55:27 2013] [debug] 200 OK (0.000420s, 2380.952/s).
+[Mon Oct 14 19:55:27 2013] [debug] GET "/files/".
+[Mon Oct 14 19:55:27 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Oct 14 19:55:27 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Oct 14 19:55:27 2013] [debug] Rendering inline template.
+[Mon Oct 14 19:55:27 2013] [debug] Rendering inline template.
+[Mon Oct 14 19:55:27 2013] [debug] 404 Not Found (0.014538s, 68.785/s).
+[Mon Oct 14 19:55:34 2013] [debug] POST "/process".
+[Mon Oct 14 19:55:34 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:55:34 2013] [debug] 302 Found (0.002996s, 333.778/s).
+[Mon Oct 14 19:55:34 2013] [debug] GET "/files/lol".
+[Mon Oct 14 19:55:34 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:55:34 2013] [debug] Rendering cached template "pasted.html.ep" from DATA section.
+[Mon Oct 14 19:55:34 2013] [debug] Rendering cached template "layouts/default.html.ep" from DATA section.
+[Mon Oct 14 19:55:34 2013] [debug] 200 OK (0.001054s, 948.767/s).
+[Mon Oct 14 19:55:34 2013] [debug] GET "/files/style.css".
+[Mon Oct 14 19:55:34 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:55:34 2013] [debug] 200 OK (0.000441s, 2267.574/s).
+[Mon Oct 14 19:55:34 2013] [debug] Rendering cached template "pasted.html.ep" from DATA section.
+[Mon Oct 14 19:55:34 2013] [debug] Rendering cached template "layouts/default.html.ep" from DATA section.
+[Mon Oct 14 19:56:04 2013] [debug] POST "/process".
+[Mon Oct 14 19:56:04 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:56:04 2013] [debug] 302 Found (0.001265s, 790.514/s).
+[Mon Oct 14 19:56:04 2013] [debug] GET "/files/lol".
+[Mon Oct 14 19:56:04 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:56:04 2013] [debug] Rendering cached template "pasted.html.ep" from DATA section.
+[Mon Oct 14 19:56:04 2013] [debug] Rendering cached template "layouts/default.html.ep" from DATA section.
+[Mon Oct 14 19:56:04 2013] [debug] 200 OK (0.000926s, 1079.914/s).
+[Mon Oct 14 19:56:04 2013] [debug] GET "/files/style.css".
+[Mon Oct 14 19:56:04 2013] [debug] Routing to a callback.
+[Mon Oct 14 19:56:04 2013] [debug] 200 OK (0.000345s, 2898.551/s).
+[Mon Oct 14 19:56:04 2013] [debug] Rendering cached template "pasted.html.ep" from DATA section.
+[Mon Oct 14 19:56:04 2013] [debug] Rendering cached template "layouts/default.html.ep" from DATA section.
+[Wed Oct 16 10:57:35 2013] [info] Listening at "http://*:3000".
+[Wed Oct 16 10:57:57 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Oct 16 10:57:57 2013] [debug] GET "/".
+[Wed Oct 16 10:57:57 2013] [debug] Routing to a callback.
+[Wed Oct 16 10:57:57 2013] [debug] Rendering template "form.html.ep" from DATA section.
+[Wed Oct 16 10:57:57 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Wed Oct 16 10:57:57 2013] [debug] 200 OK (0.105373s, 9.490/s).
+[Wed Oct 16 11:08:09 2013] [debug] POST "/process".
+[Wed Oct 16 11:08:09 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:08:09 2013] [debug] 302 Found (0.020597s, 48.551/s).
+[Wed Oct 16 11:08:09 2013] [debug] GET "/files/caca".
+[Wed Oct 16 11:08:09 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:08:09 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Wed Oct 16 11:08:10 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Wed Oct 16 11:08:10 2013] [debug] 200 OK (0.007246s, 138.007/s).
+[Wed Oct 16 11:08:10 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 11:08:10 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:08:10 2013] [debug] 200 OK (0.000743s, 1345.895/s).
+[Wed Oct 16 11:08:10 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Wed Oct 16 11:08:10 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Wed Oct 16 11:09:37 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Oct 16 11:09:37 2013] [debug] POST "/process".
+[Wed Oct 16 11:09:37 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:09:37 2013] [debug] 302 Found (0.002459s, 406.669/s).
+[Wed Oct 16 11:09:37 2013] [debug] GET "/files/caca".
+[Wed Oct 16 11:09:37 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:09:37 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Wed Oct 16 11:09:37 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Wed Oct 16 11:09:37 2013] [debug] 200 OK (0.012268s, 81.513/s).
+[Wed Oct 16 11:09:38 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 11:09:38 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:09:38 2013] [debug] 200 OK (0.000472s, 2118.644/s).
+[Wed Oct 16 11:09:38 2013] [debug] Rendering template "pasted.html.ep" from DATA section.
+[Wed Oct 16 11:09:38 2013] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Wed Oct 16 11:25:02 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Oct 16 11:25:02 2013] [debug] GET "/".
+[Wed Oct 16 11:25:02 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:25:02 2013] [debug] Rendering template "form.html.ep".
+[Wed Oct 16 11:25:02 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 11:25:02 2013] [debug] 200 OK (0.007894s, 126.678/s).
+[Wed Oct 16 11:25:13 2013] [debug] POST "/process".
+[Wed Oct 16 11:25:13 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:25:13 2013] [debug] 302 Found (0.001694s, 590.319/s).
+[Wed Oct 16 11:25:13 2013] [debug] GET "/files/lol".
+[Wed Oct 16 11:25:13 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:25:13 2013] [debug] Rendering template "pasted.html.ep".
+[Wed Oct 16 11:25:13 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 11:25:13 2013] [debug] 200 OK (0.004371s, 228.781/s).
+[Wed Oct 16 11:25:13 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 11:25:13 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:25:13 2013] [debug] 200 OK (0.000519s, 1926.782/s).
+[Wed Oct 16 11:25:13 2013] [debug] Rendering template "pasted.html.ep".
+[Wed Oct 16 11:25:13 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 11:25:43 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Oct 16 11:25:43 2013] [debug] GET "/".
+[Wed Oct 16 11:25:43 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:25:43 2013] [debug] Rendering template "form.html.ep".
+[Wed Oct 16 11:25:43 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 11:25:43 2013] [debug] 200 OK (0.006880s, 145.349/s).
+[Wed Oct 16 11:25:54 2013] [debug] POST "/process".
+[Wed Oct 16 11:25:54 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:25:54 2013] [debug] 302 Found (0.001686s, 593.120/s).
+[Wed Oct 16 11:25:55 2013] [debug] GET "/files/ote".
+[Wed Oct 16 11:25:55 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:25:55 2013] [debug] Rendering template "pasted.html.ep".
+[Wed Oct 16 11:25:55 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 11:25:55 2013] [debug] 200 OK (0.006640s, 150.602/s).
+[Wed Oct 16 11:25:55 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 11:25:55 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:25:55 2013] [debug] 200 OK (0.000620s, 1612.903/s).
+[Wed Oct 16 11:25:55 2013] [debug] Rendering template "pasted.html.ep".
+[Wed Oct 16 11:25:55 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 11:26:38 2013] [debug] POST "/process".
+[Wed Oct 16 11:26:38 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:26:38 2013] [debug] 302 Found (0.000861s, 1161.440/s).
+[Wed Oct 16 11:26:38 2013] [debug] GET "/files/ote".
+[Wed Oct 16 11:26:38 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:26:38 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 11:26:38 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 11:26:38 2013] [debug] 200 OK (0.001266s, 789.889/s).
+[Wed Oct 16 11:26:38 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 11:26:38 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:26:38 2013] [debug] 200 OK (0.000310s, 3225.806/s).
+[Wed Oct 16 11:26:38 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 11:26:38 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 11:27:02 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Oct 16 11:27:02 2013] [debug] GET "/".
+[Wed Oct 16 11:27:02 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:27:02 2013] [debug] Rendering template "form.html.ep".
+[Wed Oct 16 11:27:02 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 11:27:02 2013] [debug] 200 OK (0.009828s, 101.750/s).
+[Wed Oct 16 11:27:11 2013] [debug] POST "/process".
+[Wed Oct 16 11:27:11 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:27:11 2013] [debug] 302 Found (0.001044s, 957.854/s).
+[Wed Oct 16 11:27:11 2013] [debug] GET "/files/pute".
+[Wed Oct 16 11:27:11 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:27:11 2013] [debug] Rendering template "pasted.html.ep".
+[Wed Oct 16 11:27:11 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 11:27:11 2013] [debug] 200 OK (0.004382s, 228.206/s).
+[Wed Oct 16 11:27:11 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 11:27:11 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:27:11 2013] [debug] 200 OK (0.001012s, 988.142/s).
+[Wed Oct 16 11:27:11 2013] [debug] Rendering template "pasted.html.ep".
+[Wed Oct 16 11:27:11 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 11:32:27 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Oct 16 11:32:27 2013] [debug] GET "/".
+[Wed Oct 16 11:32:27 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:32:27 2013] [debug] Rendering template "form.html.ep".
+[Wed Oct 16 11:32:27 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 11:32:27 2013] [debug] 200 OK (0.008066s, 123.977/s).
+[Wed Oct 16 11:32:56 2013] [info] Listening at "http://*:3000".
+[Wed Oct 16 11:33:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Oct 16 11:33:04 2013] [debug] GET "/".
+[Wed Oct 16 11:33:04 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:33:04 2013] [debug] Rendering template "form.html.ep".
+[Wed Oct 16 11:33:04 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 11:33:04 2013] [debug] 200 OK (0.009175s, 108.992/s).
+[Wed Oct 16 11:33:05 2013] [debug] GET "/".
+[Wed Oct 16 11:33:05 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:33:05 2013] [debug] Rendering cached template "form.html.ep".
+[Wed Oct 16 11:33:05 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 11:33:05 2013] [debug] 200 OK (0.001687s, 592.768/s).
+[Wed Oct 16 11:33:10 2013] [debug] POST "/process".
+[Wed Oct 16 11:33:10 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:33:10 2013] [debug] 302 Found (0.001122s, 891.266/s).
+[Wed Oct 16 11:33:10 2013] [debug] GET "/files/lol".
+[Wed Oct 16 11:33:10 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:33:10 2013] [debug] Rendering template "pasted.html.ep".
+[Wed Oct 16 11:33:10 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 11:33:10 2013] [debug] 200 OK (0.004184s, 239.006/s).
+[Wed Oct 16 11:33:10 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 11:33:10 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:33:10 2013] [debug] 200 OK (0.000441s, 2267.574/s).
+[Wed Oct 16 11:33:10 2013] [debug] Rendering template "pasted.html.ep".
+[Wed Oct 16 11:33:10 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 11:37:59 2013] [debug] POST "/process".
+[Wed Oct 16 11:37:59 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:37:59 2013] [debug] 302 Found (0.000818s, 1222.494/s).
+[Wed Oct 16 11:37:59 2013] [debug] GET "/files/lol".
+[Wed Oct 16 11:37:59 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:37:59 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 11:37:59 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 11:37:59 2013] [debug] 200 OK (0.000828s, 1207.729/s).
+[Wed Oct 16 11:37:59 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 11:37:59 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:37:59 2013] [debug] 200 OK (0.000292s, 3424.658/s).
+[Wed Oct 16 11:37:59 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 11:37:59 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 11:42:26 2013] [debug] GET "/files/lol".
+[Wed Oct 16 11:42:26 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:42:26 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 11:42:26 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 11:42:26 2013] [debug] 200 OK (0.000871s, 1148.106/s).
+[Wed Oct 16 11:42:26 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 11:42:26 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:42:26 2013] [debug] 200 OK (0.000379s, 2638.522/s).
+[Wed Oct 16 11:42:26 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 11:42:26 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 11:42:40 2013] [debug] POST "/process".
+[Wed Oct 16 11:42:40 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:42:40 2013] [debug] 302 Found (0.002163s, 462.321/s).
+[Wed Oct 16 11:42:40 2013] [debug] GET "/files/j%C3%A9r%C3%B4me".
+[Wed Oct 16 11:42:40 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:42:40 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 11:42:40 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 11:42:40 2013] [debug] 200 OK (0.001580s, 632.911/s).
+[Wed Oct 16 11:42:40 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 11:42:40 2013] [debug] Routing to a callback.
+[Wed Oct 16 11:42:40 2013] [debug] 200 OK (0.000309s, 3236.246/s).
+[Wed Oct 16 11:42:40 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 11:42:40 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 14:48:12 2013] [debug] POST "/process".
+[Wed Oct 16 14:48:12 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:48:12 2013] [debug] 302 Found (0.001532s, 652.742/s).
+[Wed Oct 16 14:48:12 2013] [debug] GET "/files/j%C3%A9r%C3%B4me".
+[Wed Oct 16 14:48:12 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:48:12 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 14:48:12 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 14:48:12 2013] [debug] 200 OK (0.000947s, 1055.966/s).
+[Wed Oct 16 14:48:12 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 14:48:12 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:48:12 2013] [debug] 200 OK (0.000462s, 2164.502/s).
+[Wed Oct 16 14:48:12 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 14:48:12 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 14:49:49 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Oct 16 14:49:49 2013] [debug] POST "/process".
+[Wed Oct 16 14:49:49 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:49:49 2013] [debug] 302 Found (0.003539s, 282.566/s).
+[Wed Oct 16 14:49:49 2013] [debug] GET "/files/j%C3%A9r%C3%B4me".
+[Wed Oct 16 14:49:49 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:49:49 2013] [debug] Rendering template "pasted.html.ep".
+[Wed Oct 16 14:49:49 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 14:49:49 2013] [debug] 200 OK (0.005827s, 171.615/s).
+[Wed Oct 16 14:49:50 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 14:49:50 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:49:50 2013] [debug] 200 OK (0.000466s, 2145.923/s).
+[Wed Oct 16 14:49:50 2013] [debug] Rendering template "pasted.html.ep".
+[Wed Oct 16 14:49:50 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 14:52:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Oct 16 14:52:26 2013] [debug] POST "/process".
+[Wed Oct 16 14:52:26 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:52:26 2013] [debug] 302 Found (0.003917s, 255.297/s).
+[Wed Oct 16 14:52:26 2013] [debug] GET "/files/j%C3%A9r%C3%B4me".
+[Wed Oct 16 14:52:26 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:52:26 2013] [debug] Rendering template "pasted.html.ep".
+[Wed Oct 16 14:52:26 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 14:52:26 2013] [debug] 200 OK (0.005220s, 191.571/s).
+[Wed Oct 16 14:52:26 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 14:52:26 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:52:26 2013] [debug] 200 OK (0.000654s, 1529.052/s).
+[Wed Oct 16 14:52:26 2013] [debug] Rendering template "pasted.html.ep".
+[Wed Oct 16 14:52:26 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 14:56:42 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Oct 16 14:56:42 2013] [debug] POST "/process".
+[Wed Oct 16 14:56:42 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:56:42 2013] [debug] 302 Found (0.002036s, 491.159/s).
+[Wed Oct 16 14:56:42 2013] [debug] GET "/files/j%C3%A9r%C3%B4me".
+[Wed Oct 16 14:56:42 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:56:42 2013] [debug] Rendering template "pasted.html.ep".
+[Wed Oct 16 14:56:42 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 14:56:42 2013] [debug] 200 OK (0.008206s, 121.862/s).
+[Wed Oct 16 14:56:42 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 14:56:42 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:56:42 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 14:56:42 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 14:56:42 2013] [debug] 200 OK (0.001034s, 967.118/s).
+[Wed Oct 16 14:56:59 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Oct 16 14:56:59 2013] [debug] GET "/files/j%C3%A9r%C3%B4me".
+[Wed Oct 16 14:56:59 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:56:59 2013] [debug] Rendering template "pasted.html.ep".
+[Wed Oct 16 14:56:59 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 14:56:59 2013] [debug] 200 OK (0.006277s, 159.312/s).
+[Wed Oct 16 14:56:59 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 14:56:59 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:56:59 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 14:56:59 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 14:56:59 2013] [debug] 200 OK (0.001365s, 732.601/s).
+[Wed Oct 16 14:57:03 2013] [debug] POST "/process".
+[Wed Oct 16 14:57:03 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:57:03 2013] [debug] 302 Found (0.007559s, 132.293/s).
+[Wed Oct 16 14:57:03 2013] [debug] GET "/files/j%C3%A9r%C3%B4me".
+[Wed Oct 16 14:57:03 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:57:03 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 14:57:03 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 14:57:03 2013] [debug] 200 OK (0.001131s, 884.173/s).
+[Wed Oct 16 14:57:03 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 14:57:03 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:57:03 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 14:57:03 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 14:57:03 2013] [debug] 200 OK (0.001216s, 822.368/s).
+[Wed Oct 16 14:57:15 2013] [debug] POST "/process".
+[Wed Oct 16 14:57:15 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:57:15 2013] [debug] 302 Found (0.002745s, 364.299/s).
+[Wed Oct 16 14:57:15 2013] [debug] GET "/files/j%C3%A9r%C3%B4me".
+[Wed Oct 16 14:57:15 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:57:15 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 14:57:15 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 14:57:15 2013] [debug] 200 OK (0.000884s, 1131.222/s).
+[Wed Oct 16 14:57:15 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 14:57:15 2013] [debug] Routing to a callback.
+[Wed Oct 16 14:57:15 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 14:57:15 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 14:57:15 2013] [debug] 200 OK (0.000896s, 1116.071/s).
+[Wed Oct 16 15:00:41 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Oct 16 15:00:41 2013] [debug] POST "/process".
+[Wed Oct 16 15:00:41 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:00:41 2013] [debug] 302 Found (0.001964s, 509.165/s).
+[Wed Oct 16 15:00:41 2013] [debug] GET "/files/j%C3%A9r%C3%B4me".
+[Wed Oct 16 15:00:41 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:00:41 2013] [debug] Rendering template "pasted.html.ep".
+[Wed Oct 16 15:00:41 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 15:00:41 2013] [debug] 200 OK (0.005117s, 195.427/s).
+[Wed Oct 16 15:00:42 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 15:00:42 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:00:42 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 15:00:42 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 15:00:42 2013] [debug] 200 OK (0.001822s, 548.847/s).
+[Wed Oct 16 15:01:01 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Oct 16 15:01:01 2013] [debug] GET "/".
+[Wed Oct 16 15:01:01 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:01:01 2013] [debug] Rendering template "form.html.ep".
+[Wed Oct 16 15:01:01 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 15:01:01 2013] [debug] 200 OK (0.008861s, 112.854/s).
+[Wed Oct 16 15:01:12 2013] [debug] POST "/process".
+[Wed Oct 16 15:01:12 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:01:12 2013] [debug] 302 Found (0.002517s, 397.298/s).
+[Wed Oct 16 15:01:12 2013] [debug] GET "/files/fanny".
+[Wed Oct 16 15:01:12 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:01:12 2013] [debug] Rendering template "pasted.html.ep".
+[Wed Oct 16 15:01:12 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 15:01:12 2013] [debug] 200 OK (0.005039s, 198.452/s).
+[Wed Oct 16 15:01:12 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 15:01:12 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:01:12 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 15:01:12 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 15:01:12 2013] [debug] 200 OK (0.001066s, 938.086/s).
+[Wed Oct 16 15:07:32 2013] [debug] POST "/process".
+[Wed Oct 16 15:07:32 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:07:32 2013] [debug] 302 Found (0.001090s, 917.431/s).
+[Wed Oct 16 15:07:32 2013] [debug] GET "/files/fanny".
+[Wed Oct 16 15:07:32 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:07:32 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 15:07:32 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 15:07:32 2013] [debug] 200 OK (0.000814s, 1228.501/s).
+[Wed Oct 16 15:07:32 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 15:07:32 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:07:32 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 15:07:32 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 15:07:32 2013] [debug] 200 OK (0.000903s, 1107.420/s).
+[Wed Oct 16 15:11:15 2013] [debug] POST "/process".
+[Wed Oct 16 15:11:15 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:11:15 2013] [debug] 302 Found (0.000835s, 1197.605/s).
+[Wed Oct 16 15:11:15 2013] [debug] GET "/files/fanny".
+[Wed Oct 16 15:11:15 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:11:15 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 15:11:15 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 15:11:15 2013] [debug] 200 OK (0.000808s, 1237.624/s).
+[Wed Oct 16 15:11:15 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 15:11:15 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:11:15 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 15:11:15 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 15:11:15 2013] [debug] 200 OK (0.001467s, 681.663/s).
+[Wed Oct 16 15:11:51 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Oct 16 15:11:51 2013] [debug] GET "/".
+[Wed Oct 16 15:11:51 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:11:51 2013] [debug] Rendering template "form.html.ep".
+[Wed Oct 16 15:11:51 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 15:11:51 2013] [debug] 200 OK (0.010712s, 93.353/s).
+[Wed Oct 16 15:12:00 2013] [debug] POST "/process".
+[Wed Oct 16 15:12:00 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:12:00 2013] [debug] 302 Found (0.001647s, 607.165/s).
+[Wed Oct 16 15:12:00 2013] [debug] GET "/files/haha".
+[Wed Oct 16 15:12:00 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:12:00 2013] [debug] Rendering template "pasted.html.ep".
+[Wed Oct 16 15:12:00 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Oct 16 15:12:00 2013] [debug] 200 OK (0.004413s, 226.603/s).
+[Wed Oct 16 15:12:00 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 15:12:00 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:12:00 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 15:12:00 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 15:12:00 2013] [debug] 200 OK (0.001016s, 984.252/s).
+[Wed Oct 16 15:45:52 2013] [debug] POST "/process".
+[Wed Oct 16 15:45:52 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:45:52 2013] [debug] 302 Found (0.001242s, 805.153/s).
+[Wed Oct 16 15:45:52 2013] [debug] GET "/files/haha".
+[Wed Oct 16 15:45:52 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:45:52 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 15:45:52 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 15:45:52 2013] [debug] 200 OK (0.000870s, 1149.425/s).
+[Wed Oct 16 15:45:53 2013] [debug] GET "/files/style.css".
+[Wed Oct 16 15:45:53 2013] [debug] Routing to a callback.
+[Wed Oct 16 15:45:53 2013] [debug] Rendering cached template "pasted.html.ep".
+[Wed Oct 16 15:45:53 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Oct 16 15:45:53 2013] [debug] 200 OK (0.001313s, 761.615/s).
+[Fri Oct 18 10:53:09 2013] [info] Listening at "http://*:3000".
+[Fri Oct 18 10:53:55 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 18 10:53:55 2013] [debug] GET "/".
+[Fri Oct 18 10:53:55 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:53:55 2013] [debug] Rendering template "form.html.ep".
+[Fri Oct 18 10:53:56 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 18 10:53:56 2013] [debug] 200 OK (0.071427s, 14.000/s).
+[Fri Oct 18 10:53:56 2013] [debug] GET "/public/style.css".
+[Fri Oct 18 10:53:56 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:53:56 2013] [debug] Rendering template "pasted.html.ep".
+[Fri Oct 18 10:53:56 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 18 10:53:56 2013] [debug] 200 OK (0.023463s, 42.620/s).
+[Fri Oct 18 10:55:43 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 18 10:55:43 2013] [debug] GET "/".
+[Fri Oct 18 10:55:43 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:55:43 2013] [debug] Rendering template "form.html.ep".
+[Fri Oct 18 10:55:43 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 18 10:55:43 2013] [debug] 200 OK (0.007054s, 141.764/s).
+[Fri Oct 18 10:55:50 2013] [debug] POST "/process".
+[Fri Oct 18 10:55:50 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:55:50 2013] [debug] 302 Found (0.003634s, 275.179/s).
+[Fri Oct 18 10:55:50 2013] [debug] GET "/files/lol".
+[Fri Oct 18 10:55:50 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:55:50 2013] [debug] Rendering template "pasted.html.ep".
+[Fri Oct 18 10:55:50 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 18 10:55:50 2013] [debug] 200 OK (0.011871s, 84.239/s).
+[Fri Oct 18 10:55:50 2013] [debug] GET "/files/style.css".
+[Fri Oct 18 10:55:50 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:55:50 2013] [debug] Rendering cached template "pasted.html.ep".
+[Fri Oct 18 10:55:50 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Oct 18 10:55:50 2013] [debug] 200 OK (0.001289s, 775.795/s).
+[Fri Oct 18 10:56:15 2013] [debug] GET "/".
+[Fri Oct 18 10:56:15 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:56:15 2013] [debug] Rendering cached template "form.html.ep".
+[Fri Oct 18 10:56:15 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Oct 18 10:56:15 2013] [debug] 200 OK (0.001826s, 547.645/s).
+[Fri Oct 18 10:56:15 2013] [debug] GET "/style.css".
+[Fri Oct 18 10:56:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 18 10:56:15 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 18 10:56:15 2013] [debug] Rendering inline template.
+[Fri Oct 18 10:56:15 2013] [debug] Rendering inline template.
+[Fri Oct 18 10:56:15 2013] [debug] 404 Not Found (0.015888s, 62.941/s).
+[Fri Oct 18 10:56:15 2013] [debug] GET "/".
+[Fri Oct 18 10:56:15 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:56:15 2013] [debug] Rendering cached template "form.html.ep".
+[Fri Oct 18 10:56:15 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Oct 18 10:56:15 2013] [debug] 200 OK (0.002269s, 440.723/s).
+[Fri Oct 18 10:56:15 2013] [debug] GET "/style.css".
+[Fri Oct 18 10:56:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 18 10:56:15 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 18 10:56:15 2013] [debug] Rendering cached inline template.
+[Fri Oct 18 10:56:15 2013] [debug] Rendering cached inline template.
+[Fri Oct 18 10:56:15 2013] [debug] 404 Not Found (0.004348s, 229.991/s).
+[Fri Oct 18 10:56:16 2013] [debug] GET "/".
+[Fri Oct 18 10:56:16 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:56:16 2013] [debug] Rendering cached template "form.html.ep".
+[Fri Oct 18 10:56:16 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Oct 18 10:56:16 2013] [debug] 200 OK (0.001415s, 706.714/s).
+[Fri Oct 18 10:56:16 2013] [debug] GET "/style.css".
+[Fri Oct 18 10:56:16 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 18 10:56:16 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 18 10:56:16 2013] [debug] Rendering cached inline template.
+[Fri Oct 18 10:56:16 2013] [debug] Rendering cached inline template.
+[Fri Oct 18 10:56:16 2013] [debug] 404 Not Found (0.004067s, 245.881/s).
+[Fri Oct 18 10:56:16 2013] [debug] GET "/".
+[Fri Oct 18 10:56:16 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:56:16 2013] [debug] Rendering cached template "form.html.ep".
+[Fri Oct 18 10:56:16 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Oct 18 10:56:16 2013] [debug] 200 OK (0.003471s, 288.101/s).
+[Fri Oct 18 10:56:17 2013] [debug] GET "/style.css".
+[Fri Oct 18 10:56:17 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 18 10:56:17 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 18 10:56:17 2013] [debug] Rendering cached inline template.
+[Fri Oct 18 10:56:17 2013] [debug] Rendering cached inline template.
+[Fri Oct 18 10:56:17 2013] [debug] 404 Not Found (0.004970s, 201.207/s).
+[Fri Oct 18 10:56:17 2013] [debug] GET "/".
+[Fri Oct 18 10:56:17 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:56:17 2013] [debug] Rendering cached template "form.html.ep".
+[Fri Oct 18 10:56:17 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Oct 18 10:56:17 2013] [debug] 200 OK (0.001648s, 606.796/s).
+[Fri Oct 18 10:56:17 2013] [debug] GET "/style.css".
+[Fri Oct 18 10:56:17 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 18 10:56:17 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 18 10:56:17 2013] [debug] Rendering cached inline template.
+[Fri Oct 18 10:56:17 2013] [debug] Rendering cached inline template.
+[Fri Oct 18 10:56:17 2013] [debug] 404 Not Found (0.006622s, 151.012/s).
+[Fri Oct 18 10:57:31 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 18 10:57:31 2013] [debug] GET "/".
+[Fri Oct 18 10:57:31 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:57:31 2013] [debug] Rendering template "form.html.ep".
+[Fri Oct 18 10:57:31 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 18 10:57:31 2013] [debug] 200 OK (0.008699s, 114.956/s).
+[Fri Oct 18 10:57:31 2013] [debug] GET "/public/style.css".
+[Fri Oct 18 10:57:31 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:57:31 2013] [debug] Rendering template "pasted.html.ep".
+[Fri Oct 18 10:57:31 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 18 10:57:31 2013] [debug] 200 OK (0.008102s, 123.426/s).
+[Fri Oct 18 10:57:40 2013] [debug] POST "/process".
+[Fri Oct 18 10:57:40 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:57:40 2013] [debug] 302 Found (0.001749s, 571.755/s).
+[Fri Oct 18 10:57:40 2013] [debug] GET "/files/lol".
+[Fri Oct 18 10:57:40 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:57:40 2013] [debug] Rendering cached template "pasted.html.ep".
+[Fri Oct 18 10:57:40 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Oct 18 10:57:40 2013] [debug] 200 OK (0.001102s, 907.441/s).
+[Fri Oct 18 10:57:40 2013] [debug] GET "/public/style.css".
+[Fri Oct 18 10:57:40 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:57:40 2013] [debug] Rendering cached template "pasted.html.ep".
+[Fri Oct 18 10:57:40 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Oct 18 10:57:40 2013] [debug] 200 OK (0.001747s, 572.410/s).
+[Fri Oct 18 10:58:32 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 18 10:58:32 2013] [debug] GET "/".
+[Fri Oct 18 10:58:32 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:58:32 2013] [debug] Rendering template "form.html.ep".
+[Fri Oct 18 10:58:32 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 18 10:58:32 2013] [debug] 200 OK (0.007695s, 129.955/s).
+[Fri Oct 18 10:58:33 2013] [debug] GET "/public/style.css".
+[Fri Oct 18 10:58:33 2013] [debug] Routing to a callback.
+[Fri Oct 18 10:58:33 2013] [debug] Rendering template "pasted.html.ep".
+[Fri Oct 18 10:58:33 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 18 10:58:33 2013] [debug] 200 OK (0.004878s, 205.002/s).
+[Fri Oct 18 11:00:57 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 18 11:00:57 2013] [debug] GET "/".
+[Fri Oct 18 11:00:57 2013] [debug] Routing to a callback.
+[Fri Oct 18 11:00:57 2013] [debug] Rendering template "form.html.ep".
+[Fri Oct 18 11:00:57 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 18 11:00:57 2013] [debug] 200 OK (0.009798s, 102.062/s).
+[Fri Oct 18 11:01:03 2013] [debug] POST "/process".
+[Fri Oct 18 11:01:03 2013] [debug] Routing to a callback.
+[Fri Oct 18 11:01:03 2013] [debug] 302 Found (0.001652s, 605.327/s).
+[Fri Oct 18 11:01:03 2013] [debug] GET "/files/poil".
+[Fri Oct 18 11:01:03 2013] [debug] Routing to a callback.
+[Fri Oct 18 11:01:03 2013] [debug] Rendering template "pasted.html.ep".
+[Fri Oct 18 11:01:03 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 18 11:01:03 2013] [debug] 200 OK (0.004532s, 220.653/s).
+[Fri Oct 18 11:01:03 2013] [debug] GET "/files/style.css".
+[Fri Oct 18 11:01:03 2013] [debug] Routing to a callback.
+[Fri Oct 18 11:01:03 2013] [debug] Rendering cached template "pasted.html.ep".
+[Fri Oct 18 11:01:03 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Oct 18 11:01:03 2013] [debug] 200 OK (0.001225s, 816.327/s).
+[Fri Oct 18 17:52:16 2013] [info] Listening at "http://*:3000".
+[Sat Oct 19 11:04:45 2013] [info] Listening at "http://*:3000".
+[Sat Oct 19 11:05:43 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Oct 19 11:05:43 2013] [debug] GET "/".
+[Sat Oct 19 11:05:43 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:05:43 2013] [debug] Rendering template "form.html.ep".
+[Sat Oct 19 11:05:43 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Oct 19 11:05:43 2013] [debug] 200 OK (0.083413s, 11.989/s).
+[Sat Oct 19 11:06:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Oct 19 11:06:07 2013] [debug] GET "/".
+[Sat Oct 19 11:06:07 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:06:07 2013] [debug] Rendering template "form.html.ep".
+[Sat Oct 19 11:06:07 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Oct 19 11:06:07 2013] [debug] 200 OK (0.007673s, 130.327/s).
+[Sat Oct 19 11:06:09 2013] [debug] GET "/".
+[Sat Oct 19 11:06:09 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:06:09 2013] [debug] Rendering cached template "form.html.ep".
+[Sat Oct 19 11:06:09 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 11:06:09 2013] [debug] 200 OK (0.001636s, 611.247/s).
+[Sat Oct 19 11:10:59 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Oct 19 11:10:59 2013] [debug] GET "/".
+[Sat Oct 19 11:10:59 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:10:59 2013] [debug] Rendering template "form.html.ep".
+[Sat Oct 19 11:10:59 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Oct 19 11:10:59 2013] [debug] 200 OK (0.007738s, 129.232/s).
+[Sat Oct 19 11:11:07 2013] [debug] POST "/process".
+[Sat Oct 19 11:11:07 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:11:07 2013] [debug] 302 Found (0.019094s, 52.372/s).
+[Sat Oct 19 11:11:07 2013] [debug] GET "/files/lol".
+[Sat Oct 19 11:11:07 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:11:07 2013] [debug] Rendering template "pasted.html.ep".
+[Sat Oct 19 11:11:07 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Oct 19 11:11:07 2013] [debug] 200 OK (0.045473s, 21.991/s).
+[Sat Oct 19 11:11:07 2013] [debug] GET "/files/style.css".
+[Sat Oct 19 11:11:07 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:11:07 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 11:11:07 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 11:11:07 2013] [debug] 200 OK (0.001128s, 886.525/s).
+[Sat Oct 19 11:16:59 2013] [info] Listening at "http://*:3000".
+[Sat Oct 19 11:19:10 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Oct 19 11:19:10 2013] [debug] POST "/process".
+[Sat Oct 19 11:19:10 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:19:10 2013] [debug] 302 Found (0.001219s, 820.345/s).
+[Sat Oct 19 11:19:11 2013] [debug] GET "/files/batard".
+[Sat Oct 19 11:19:11 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:19:11 2013] [debug] Rendering template "pasted.html.ep".
+[Sat Oct 19 11:19:11 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Oct 19 11:19:11 2013] [debug] 200 OK (0.006123s, 163.319/s).
+[Sat Oct 19 11:19:11 2013] [debug] GET "/files/style.css".
+[Sat Oct 19 11:19:11 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:19:11 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 11:19:11 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 11:19:11 2013] [debug] 200 OK (0.002188s, 457.038/s).
+[Sat Oct 19 11:23:13 2013] [debug] POST "/process".
+[Sat Oct 19 11:23:13 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:23:13 2013] [debug] 302 Found (0.001663s, 601.323/s).
+[Sat Oct 19 11:23:13 2013] [debug] GET "/files/batard".
+[Sat Oct 19 11:23:13 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:23:13 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 11:23:13 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 11:23:13 2013] [debug] 200 OK (0.001418s, 705.219/s).
+[Sat Oct 19 11:23:13 2013] [debug] GET "/files/style.css".
+[Sat Oct 19 11:23:13 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:23:13 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 11:23:13 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 11:23:13 2013] [debug] 200 OK (0.000977s, 1023.541/s).
+[Sat Oct 19 11:27:02 2013] [info] Listening at "http://*:3000".
+[Sat Oct 19 11:27:33 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Oct 19 11:27:33 2013] [debug] GET "/".
+[Sat Oct 19 11:27:33 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:27:33 2013] [debug] Rendering template "form.html.ep".
+[Sat Oct 19 11:27:33 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Oct 19 11:27:33 2013] [debug] 200 OK (0.011424s, 87.535/s).
+[Sat Oct 19 11:27:37 2013] [debug] GET "/".
+[Sat Oct 19 11:27:37 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:27:37 2013] [debug] Rendering cached template "form.html.ep".
+[Sat Oct 19 11:27:37 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 11:27:37 2013] [debug] 200 OK (0.002121s, 471.476/s).
+[Sat Oct 19 11:27:40 2013] [debug] GET "/".
+[Sat Oct 19 11:27:40 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:27:40 2013] [debug] Rendering cached template "form.html.ep".
+[Sat Oct 19 11:27:40 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 11:27:40 2013] [debug] 200 OK (0.004034s, 247.893/s).
+[Sat Oct 19 11:32:18 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Oct 19 11:32:18 2013] [debug] GET "/".
+[Sat Oct 19 11:32:18 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:32:18 2013] [debug] Rendering template "form.html.ep".
+[Sat Oct 19 11:32:18 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Oct 19 11:32:18 2013] [debug] 200 OK (0.011358s, 88.044/s).
+[Sat Oct 19 11:34:59 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Oct 19 11:34:59 2013] [debug] GET "/".
+[Sat Oct 19 11:34:59 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:34:59 2013] [debug] Rendering template "form.html.ep".
+[Sat Oct 19 11:34:59 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Oct 19 11:34:59 2013] [debug] 200 OK (0.008564s, 116.768/s).
+[Sat Oct 19 11:35:00 2013] [debug] GET "/stykle.css".
+[Sat Oct 19 11:35:00 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Oct 19 11:35:00 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Oct 19 11:35:00 2013] [debug] Rendering inline template.
+[Sat Oct 19 11:35:00 2013] [debug] Rendering inline template.
+[Sat Oct 19 11:35:00 2013] [debug] 404 Not Found (0.016047s, 62.317/s).
+[Sat Oct 19 11:35:10 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Oct 19 11:35:10 2013] [debug] GET "/".
+[Sat Oct 19 11:35:10 2013] [debug] Routing to a callback.
+[Sat Oct 19 11:35:10 2013] [debug] Rendering template "form.html.ep".
+[Sat Oct 19 11:35:10 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Oct 19 11:35:10 2013] [debug] 200 OK (0.011117s, 89.952/s).
+[Sat Oct 19 16:04:21 2013] [info] Listening at "http://*:3000".
+[Sat Oct 19 16:04:50 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Oct 19 16:04:50 2013] [debug] GET "/".
+[Sat Oct 19 16:04:50 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:04:50 2013] [debug] Rendering template "form.html.ep".
+[Sat Oct 19 16:04:50 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Oct 19 16:04:50 2013] [debug] 200 OK (0.058798s, 17.007/s).
+[Sat Oct 19 16:04:59 2013] [debug] POST "/process".
+[Sat Oct 19 16:04:59 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:04:59 2013] [debug] 302 Found (0.019701s, 50.759/s).
+[Sat Oct 19 16:04:59 2013] [debug] GET "/files/lol".
+[Sat Oct 19 16:04:59 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:04:59 2013] [debug] Rendering template "pasted.html.ep".
+[Sat Oct 19 16:04:59 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Oct 19 16:04:59 2013] [debug] 200 OK (0.083532s, 11.971/s).
+[Sat Oct 19 16:18:05 2013] [debug] POST "/process".
+[Sat Oct 19 16:18:05 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:18:05 2013] [debug] 302 Found (0.000738s, 1355.014/s).
+[Sat Oct 19 16:18:05 2013] [debug] GET "/files/lol".
+[Sat Oct 19 16:18:05 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:18:05 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:18:05 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:18:05 2013] [debug] 200 OK (0.000825s, 1212.121/s).
+[Sat Oct 19 16:18:26 2013] [debug] POST "/process".
+[Sat Oct 19 16:18:26 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:18:26 2013] [debug] 302 Found (0.000843s, 1186.240/s).
+[Sat Oct 19 16:18:26 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:18:26 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:18:26 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:18:26 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:18:26 2013] [debug] 200 OK (0.003168s, 315.657/s).
+[Sat Oct 19 16:27:13 2013] [info] Listening at "http://*:3000".
+[Sat Oct 19 16:28:10 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Oct 19 16:28:10 2013] [debug] GET "/".
+[Sat Oct 19 16:28:10 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:28:10 2013] [debug] Rendering template "form.html.ep".
+[Sat Oct 19 16:28:10 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Oct 19 16:28:10 2013] [debug] 200 OK (0.006830s, 146.413/s).
+[Sat Oct 19 16:28:21 2013] [debug] POST "/process".
+[Sat Oct 19 16:28:21 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:28:21 2013] [debug] 302 Found (0.006500s, 153.846/s).
+[Sat Oct 19 16:28:21 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:28:21 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:28:21 2013] [debug] Rendering template "pasted.html.ep".
+[Sat Oct 19 16:28:21 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Oct 19 16:28:21 2013] [debug] 200 OK (0.007917s, 126.310/s).
+[Sat Oct 19 16:35:12 2013] [debug] POST "/process".
+[Sat Oct 19 16:35:12 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:35:12 2013] [debug] 302 Found (0.001073s, 931.966/s).
+[Sat Oct 19 16:35:12 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:35:12 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:35:12 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:35:12 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:35:12 2013] [debug] 200 OK (0.000933s, 1071.811/s).
+[Sat Oct 19 16:36:10 2013] [debug] GET "/".
+[Sat Oct 19 16:36:10 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:36:10 2013] [debug] Rendering cached template "form.html.ep".
+[Sat Oct 19 16:36:10 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:36:10 2013] [debug] 200 OK (0.001470s, 680.272/s).
+[Sat Oct 19 16:36:17 2013] [debug] POST "/process".
+[Sat Oct 19 16:36:17 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:36:17 2013] [debug] 302 Found (0.004626s, 216.169/s).
+[Sat Oct 19 16:36:17 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:36:17 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:36:17 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:36:17 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:36:17 2013] [debug] 200 OK (0.002693s, 371.333/s).
+[Sat Oct 19 16:36:50 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:36:50 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:36:50 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:36:50 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:36:50 2013] [debug] 200 OK (0.001831s, 546.150/s).
+[Sat Oct 19 16:36:53 2013] [debug] GET "/".
+[Sat Oct 19 16:36:53 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:36:53 2013] [debug] Rendering cached template "form.html.ep".
+[Sat Oct 19 16:36:53 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:36:53 2013] [debug] 200 OK (0.002128s, 469.925/s).
+[Sat Oct 19 16:36:59 2013] [debug] POST "/process".
+[Sat Oct 19 16:36:59 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:36:59 2013] [debug] 302 Found (0.002920s, 342.466/s).
+[Sat Oct 19 16:36:59 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:36:59 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:36:59 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:36:59 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:36:59 2013] [debug] 200 OK (0.002675s, 373.832/s).
+[Sat Oct 19 16:37:07 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:37:07 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:37:07 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:37:07 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:37:07 2013] [debug] 200 OK (0.000903s, 1107.420/s).
+[Sat Oct 19 16:38:34 2013] [debug] POST "/process".
+[Sat Oct 19 16:38:34 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:38:34 2013] [debug] 302 Found (0.005985s, 167.084/s).
+[Sat Oct 19 16:38:34 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:38:34 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:38:34 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:38:34 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:38:34 2013] [debug] 200 OK (0.002960s, 337.838/s).
+[Sat Oct 19 16:39:50 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Oct 19 16:39:50 2013] [debug] POST "/process".
+[Sat Oct 19 16:39:50 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:39:50 2013] [debug] 302 Found (0.008115s, 123.229/s).
+[Sat Oct 19 16:39:50 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:39:50 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:39:50 2013] [debug] Rendering template "pasted.html.ep".
+[Sat Oct 19 16:39:50 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Oct 19 16:39:50 2013] [debug] 200 OK (0.009949s, 100.513/s).
+[Sat Oct 19 16:42:12 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:42:12 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:42:12 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:42:12 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:42:12 2013] [debug] 200 OK (0.000932s, 1072.961/s).
+[Sat Oct 19 16:42:45 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:42:45 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:42:45 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:42:45 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:42:45 2013] [debug] 200 OK (0.000919s, 1088.139/s).
+[Sat Oct 19 16:53:03 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:53:03 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:53:03 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:53:03 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:53:03 2013] [debug] 200 OK (0.001507s, 663.570/s).
+[Sat Oct 19 16:53:14 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:53:14 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:53:14 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:53:14 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:53:14 2013] [debug] 200 OK (0.004417s, 226.398/s).
+[Sat Oct 19 16:53:38 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:53:38 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:53:38 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:53:38 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:53:38 2013] [debug] 200 OK (0.001620s, 617.284/s).
+[Sat Oct 19 16:54:08 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:54:08 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:54:08 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:54:08 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:54:08 2013] [debug] 200 OK (0.000905s, 1104.972/s).
+[Sat Oct 19 16:54:17 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:54:17 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:54:17 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:54:17 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:54:17 2013] [debug] 200 OK (0.002851s, 350.754/s).
+[Sat Oct 19 16:54:37 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:54:37 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:54:37 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:54:37 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:54:37 2013] [debug] 200 OK (0.001368s, 730.994/s).
+[Sat Oct 19 16:55:45 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:55:45 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:55:45 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:55:45 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:55:45 2013] [debug] 200 OK (0.000863s, 1158.749/s).
+[Sat Oct 19 16:55:54 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:55:54 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:55:54 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:55:54 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:55:54 2013] [debug] 200 OK (0.001643s, 608.643/s).
+[Sat Oct 19 16:56:12 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:56:12 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:56:12 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:56:12 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:56:12 2013] [debug] 200 OK (0.000849s, 1177.856/s).
+[Sat Oct 19 16:58:40 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:58:40 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:58:40 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:58:40 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:58:40 2013] [debug] 200 OK (0.000968s, 1033.058/s).
+[Sat Oct 19 16:58:49 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:58:49 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:58:49 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:58:49 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:58:49 2013] [debug] 200 OK (0.001158s, 863.558/s).
+[Sat Oct 19 16:59:33 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:59:33 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:59:33 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:59:33 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:59:33 2013] [debug] 200 OK (0.001439s, 694.927/s).
+[Sat Oct 19 16:59:44 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:59:44 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:59:44 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:59:44 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:59:44 2013] [debug] 200 OK (0.002536s, 394.322/s).
+[Sat Oct 19 16:59:59 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 16:59:59 2013] [debug] Routing to a callback.
+[Sat Oct 19 16:59:59 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 16:59:59 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 16:59:59 2013] [debug] 200 OK (0.001450s, 689.655/s).
+[Sat Oct 19 17:00:07 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 17:00:07 2013] [debug] Routing to a callback.
+[Sat Oct 19 17:00:07 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 17:00:07 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 17:00:07 2013] [debug] 200 OK (0.001864s, 536.481/s).
+[Sat Oct 19 17:00:40 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 17:00:40 2013] [debug] Routing to a callback.
+[Sat Oct 19 17:00:40 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 17:00:40 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 17:00:40 2013] [debug] 200 OK (0.001246s, 802.568/s).
+[Sat Oct 19 17:00:49 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 17:00:49 2013] [debug] Routing to a callback.
+[Sat Oct 19 17:00:49 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 17:00:49 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 17:00:49 2013] [debug] 200 OK (0.002848s, 351.124/s).
+[Sat Oct 19 17:01:27 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 17:01:27 2013] [debug] Routing to a callback.
+[Sat Oct 19 17:01:27 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 17:01:27 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 17:01:27 2013] [debug] 200 OK (0.001445s, 692.042/s).
+[Sat Oct 19 17:01:39 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 17:01:39 2013] [debug] Routing to a callback.
+[Sat Oct 19 17:01:39 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 17:01:39 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 17:01:39 2013] [debug] 200 OK (0.000879s, 1137.656/s).
+[Sat Oct 19 17:01:52 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 17:01:52 2013] [debug] Routing to a callback.
+[Sat Oct 19 17:01:52 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 17:01:52 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 17:01:52 2013] [debug] 200 OK (0.001443s, 693.001/s).
+[Sat Oct 19 17:02:10 2013] [debug] GET "/files/fanny".
+[Sat Oct 19 17:02:10 2013] [debug] Routing to a callback.
+[Sat Oct 19 17:02:10 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sat Oct 19 17:02:10 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Oct 19 17:02:10 2013] [debug] 200 OK (0.001269s, 788.022/s).
+[Sun Oct 27 13:09:34 2013] [info] Listening at "http://*:3000".
+[Sun Oct 27 13:09:57 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 27 13:09:57 2013] [debug] GET "/".
+[Sun Oct 27 13:09:57 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:09:57 2013] [debug] Rendering template "form.html.ep".
+[Sun Oct 27 13:09:57 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Oct 27 13:09:57 2013] [debug] 200 OK (0.141760s, 7.054/s).
+[Sun Oct 27 13:10:05 2013] [debug] POST "/process".
+[Sun Oct 27 13:10:05 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:10:05 2013] [debug] 302 Found (0.019486s, 51.319/s).
+[Sun Oct 27 13:10:05 2013] [debug] GET "/files/enculer".
+[Sun Oct 27 13:10:05 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:10:05 2013] [debug] Rendering template "pasted.html.ep".
+[Sun Oct 27 13:10:05 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Oct 27 13:10:05 2013] [debug] 200 OK (0.024481s, 40.848/s).
+[Sun Oct 27 13:10:49 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 27 13:10:49 2013] [debug] GET "/".
+[Sun Oct 27 13:10:49 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:10:49 2013] [debug] Rendering template "form.html.ep".
+[Sun Oct 27 13:10:49 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Oct 27 13:10:49 2013] [debug] 200 OK (0.008367s, 119.517/s).
+[Sun Oct 27 13:10:55 2013] [debug] POST "/process".
+[Sun Oct 27 13:10:55 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:10:55 2013] [debug] 302 Found (0.003661s, 273.149/s).
+[Sun Oct 27 13:10:55 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:10:55 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:10:55 2013] [debug] Rendering template "pasted.html.ep".
+[Sun Oct 27 13:10:55 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Oct 27 13:10:55 2013] [debug] 200 OK (0.013391s, 74.677/s).
+[Sun Oct 27 13:11:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 27 13:11:26 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:11:26 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:11:26 2013] [debug] Rendering template "pasted.html.ep".
+[Sun Oct 27 13:11:26 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Oct 27 13:11:26 2013] [debug] 200 OK (0.005713s, 175.039/s).
+[Sun Oct 27 13:12:39 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:12:39 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:12:39 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:12:39 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:12:39 2013] [debug] 200 OK (0.001655s, 604.230/s).
+[Sun Oct 27 13:12:55 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:12:55 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:12:55 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:12:55 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:12:55 2013] [debug] 200 OK (0.000979s, 1021.450/s).
+[Sun Oct 27 13:13:08 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:13:08 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:13:08 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:13:08 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:13:08 2013] [debug] 200 OK (0.000934s, 1070.664/s).
+[Sun Oct 27 13:13:40 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:13:40 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:13:40 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:13:40 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:13:40 2013] [debug] 200 OK (0.001076s, 929.368/s).
+[Sun Oct 27 13:13:49 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:13:49 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:13:49 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:13:49 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:13:49 2013] [debug] 200 OK (0.000918s, 1089.325/s).
+[Sun Oct 27 13:14:03 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:14:03 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:14:03 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:14:03 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:14:03 2013] [debug] 200 OK (0.000902s, 1108.647/s).
+[Sun Oct 27 13:14:18 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:14:18 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:14:18 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:14:18 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:14:18 2013] [debug] 200 OK (0.000919s, 1088.139/s).
+[Sun Oct 27 13:14:46 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:14:46 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:14:46 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:14:46 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:14:46 2013] [debug] 200 OK (0.001046s, 956.023/s).
+[Sun Oct 27 13:16:27 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:16:27 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:16:27 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:16:27 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:16:27 2013] [debug] 200 OK (0.000949s, 1053.741/s).
+[Sun Oct 27 13:17:06 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:17:06 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:17:06 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:17:06 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:17:06 2013] [debug] 200 OK (0.001054s, 948.767/s).
+[Sun Oct 27 13:17:14 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:17:14 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:17:14 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:17:14 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:17:14 2013] [debug] 200 OK (0.001373s, 728.332/s).
+[Sun Oct 27 13:21:14 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:21:14 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:21:14 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:21:14 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:21:14 2013] [debug] 200 OK (0.000889s, 1124.859/s).
+[Sun Oct 27 13:22:01 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:22:01 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:22:01 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:22:01 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:22:01 2013] [debug] 200 OK (0.001404s, 712.251/s).
+[Sun Oct 27 13:22:27 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:22:27 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:22:27 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:22:27 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:22:27 2013] [debug] 200 OK (0.001238s, 807.754/s).
+[Sun Oct 27 13:26:00 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:26:00 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:26:00 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:26:00 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:26:00 2013] [debug] 200 OK (0.001292s, 773.994/s).
+[Sun Oct 27 13:26:15 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:26:15 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:26:15 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:26:15 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:26:15 2013] [debug] 200 OK (0.001013s, 987.167/s).
+[Sun Oct 27 13:26:23 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:26:23 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:26:23 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:26:23 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:26:23 2013] [debug] 200 OK (0.001616s, 618.812/s).
+[Sun Oct 27 13:26:24 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:26:24 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:26:24 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:26:24 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:26:24 2013] [debug] 200 OK (0.001655s, 604.230/s).
+[Sun Oct 27 13:26:33 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:26:33 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:26:33 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:26:33 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:26:33 2013] [debug] 200 OK (0.002783s, 359.324/s).
+[Sun Oct 27 13:26:40 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:26:40 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:26:40 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:26:40 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:26:40 2013] [debug] 200 OK (0.001251s, 799.361/s).
+[Sun Oct 27 13:26:44 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:26:44 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:26:44 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:26:44 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:26:44 2013] [debug] 200 OK (0.001350s, 740.741/s).
+[Sun Oct 27 13:26:48 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:26:48 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:26:48 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:26:48 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:26:48 2013] [debug] 200 OK (0.000865s, 1156.069/s).
+[Sun Oct 27 13:27:04 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:27:04 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:27:04 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:27:04 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:27:04 2013] [debug] 200 OK (0.000846s, 1182.033/s).
+[Sun Oct 27 13:27:08 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:27:08 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:27:08 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:27:08 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:27:08 2013] [debug] 200 OK (0.004531s, 220.702/s).
+[Sun Oct 27 13:27:20 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:27:20 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:27:20 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:27:20 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:27:20 2013] [debug] 200 OK (0.001331s, 751.315/s).
+[Sun Oct 27 13:28:00 2013] [debug] POST "/process".
+[Sun Oct 27 13:28:00 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:28:00 2013] [debug] 302 Found (0.001568s, 637.755/s).
+[Sun Oct 27 13:28:00 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:28:00 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:28:00 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:28:00 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:28:00 2013] [debug] 200 OK (0.000887s, 1127.396/s).
+[Sun Oct 27 13:28:16 2013] [debug] POST "/process".
+[Sun Oct 27 13:28:16 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:28:16 2013] [debug] 302 Found (0.002211s, 452.284/s).
+[Sun Oct 27 13:28:16 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:28:16 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:28:16 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:28:16 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:28:16 2013] [debug] 200 OK (0.001057s, 946.074/s).
+[Sun Oct 27 13:32:59 2013] [debug] GET "/files/enculer%20".
+[Sun Oct 27 13:32:59 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:32:59 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:32:59 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:32:59 2013] [debug] 200 OK (0.000954s, 1048.218/s).
+[Sun Oct 27 13:33:52 2013] [debug] GET "/".
+[Sun Oct 27 13:33:52 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:33:52 2013] [debug] Rendering template "form.html.ep".
+[Sun Oct 27 13:33:52 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Oct 27 13:33:52 2013] [debug] 200 OK (0.008157s, 122.594/s).
+[Sun Oct 27 13:34:22 2013] [debug] POST "/process".
+[Sun Oct 27 13:34:22 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:34:22 2013] [debug] 302 Found (0.001690s, 591.716/s).
+[Sun Oct 27 13:34:22 2013] [debug] GET "/files/lol".
+[Sun Oct 27 13:34:22 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:34:22 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:34:22 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:34:22 2013] [debug] 200 OK (0.001512s, 661.376/s).
+[Sun Oct 27 13:34:42 2013] [debug] GET "/files/lol".
+[Sun Oct 27 13:34:42 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:34:42 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:34:42 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:34:42 2013] [debug] 200 OK (0.000907s, 1102.536/s).
+[Sun Oct 27 13:35:17 2013] [debug] GET "/files/lol".
+[Sun Oct 27 13:35:17 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:35:17 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:35:17 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:35:17 2013] [debug] 200 OK (0.000919s, 1088.139/s).
+[Sun Oct 27 13:46:09 2013] [debug] GET "/files/lol".
+[Sun Oct 27 13:46:09 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:46:09 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:46:09 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:46:09 2013] [debug] 200 OK (0.001288s, 776.398/s).
+[Sun Oct 27 13:51:05 2013] [debug] GET "/files/lol".
+[Sun Oct 27 13:51:05 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:51:05 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:51:05 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:51:05 2013] [debug] 200 OK (0.000948s, 1054.852/s).
+[Sun Oct 27 13:51:55 2013] [debug] GET "/files/lol".
+[Sun Oct 27 13:51:55 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:51:55 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:51:55 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:51:55 2013] [debug] 200 OK (0.000915s, 1092.896/s).
+[Sun Oct 27 13:52:41 2013] [debug] GET "/files/lol".
+[Sun Oct 27 13:52:41 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:52:41 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:52:41 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:52:41 2013] [debug] 200 OK (0.001345s, 743.494/s).
+[Sun Oct 27 13:52:42 2013] [debug] GET "/files/lol".
+[Sun Oct 27 13:52:42 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:52:42 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:52:42 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:52:42 2013] [debug] 200 OK (0.002561s, 390.472/s).
+[Sun Oct 27 13:52:56 2013] [debug] GET "/files/lol".
+[Sun Oct 27 13:52:56 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:52:56 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:52:56 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:52:56 2013] [debug] 200 OK (0.005048s, 198.098/s).
+[Sun Oct 27 13:53:28 2013] [debug] GET "/files/lol".
+[Sun Oct 27 13:53:28 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:53:28 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:53:28 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:53:28 2013] [debug] 200 OK (0.001250s, 800.000/s).
+[Sun Oct 27 13:53:34 2013] [debug] GET "/".
+[Sun Oct 27 13:53:34 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:53:34 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 13:53:34 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:53:34 2013] [debug] 200 OK (0.004792s, 208.681/s).
+[Sun Oct 27 13:53:46 2013] [debug] POST "/process".
+[Sun Oct 27 13:53:46 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:53:46 2013] [debug] 302 Found (0.002735s, 365.631/s).
+[Sun Oct 27 13:53:46 2013] [debug] GET "/files/test".
+[Sun Oct 27 13:53:46 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:53:46 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:53:46 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:53:46 2013] [debug] 200 OK (0.003228s, 309.789/s).
+[Sun Oct 27 13:54:01 2013] [debug] POST "/process".
+[Sun Oct 27 13:54:01 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:54:01 2013] [debug] 302 Found (0.000827s, 1209.190/s).
+[Sun Oct 27 13:54:01 2013] [debug] GET "/files/test".
+[Sun Oct 27 13:54:01 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:54:01 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:54:01 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:54:01 2013] [debug] 200 OK (0.001175s, 851.064/s).
+[Sun Oct 27 13:54:32 2013] [debug] GET "/files/test".
+[Sun Oct 27 13:54:32 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:54:32 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:54:32 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:54:32 2013] [debug] 200 OK (0.000863s, 1158.749/s).
+[Sun Oct 27 13:54:57 2013] [debug] GET "/files/test".
+[Sun Oct 27 13:54:57 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:54:57 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:54:57 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:54:57 2013] [debug] 200 OK (0.001456s, 686.813/s).
+[Sun Oct 27 13:56:37 2013] [debug] GET "/files/test".
+[Sun Oct 27 13:56:37 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:56:37 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:56:37 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:56:37 2013] [debug] 200 OK (0.000943s, 1060.445/s).
+[Sun Oct 27 13:57:28 2013] [debug] GET "/files/test".
+[Sun Oct 27 13:57:28 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:57:28 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:57:28 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:57:28 2013] [debug] 200 OK (0.001560s, 641.026/s).
+[Sun Oct 27 13:57:47 2013] [debug] GET "/files/test".
+[Sun Oct 27 13:57:47 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:57:47 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:57:47 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:57:47 2013] [debug] 200 OK (0.000842s, 1187.648/s).
+[Sun Oct 27 13:57:54 2013] [debug] GET "/files/test".
+[Sun Oct 27 13:57:54 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:57:54 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:57:54 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:57:54 2013] [debug] 200 OK (0.000879s, 1137.656/s).
+[Sun Oct 27 13:58:51 2013] [debug] GET "/files/test".
+[Sun Oct 27 13:58:51 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:58:51 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:58:51 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:58:51 2013] [debug] 200 OK (0.001308s, 764.526/s).
+[Sun Oct 27 13:58:58 2013] [debug] GET "/files/test".
+[Sun Oct 27 13:58:58 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:58:58 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:58:58 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:58:58 2013] [debug] 200 OK (0.000871s, 1148.106/s).
+[Sun Oct 27 13:59:51 2013] [debug] GET "/files/test".
+[Sun Oct 27 13:59:51 2013] [debug] Routing to a callback.
+[Sun Oct 27 13:59:51 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 13:59:51 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 13:59:51 2013] [debug] 200 OK (0.000994s, 1006.036/s).
+[Sun Oct 27 14:00:00 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:00:00 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:00:00 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:00:00 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:00:00 2013] [debug] 200 OK (0.002844s, 351.617/s).
+[Sun Oct 27 14:02:09 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:02:09 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:02:09 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:02:09 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:02:09 2013] [debug] 200 OK (0.001153s, 867.303/s).
+[Sun Oct 27 14:02:18 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:02:18 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:02:18 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:02:18 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:02:18 2013] [debug] 200 OK (0.000878s, 1138.952/s).
+[Sun Oct 27 14:02:24 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:02:24 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:02:24 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:02:24 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:02:24 2013] [debug] 200 OK (0.002826s, 353.857/s).
+[Sun Oct 27 14:02:53 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:02:53 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:02:53 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:02:53 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:02:53 2013] [debug] 200 OK (0.000918s, 1089.325/s).
+[Sun Oct 27 14:04:07 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:04:07 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:04:07 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:04:07 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:04:07 2013] [debug] 200 OK (0.000892s, 1121.076/s).
+[Sun Oct 27 14:04:34 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:04:34 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:04:34 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:04:34 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:04:34 2013] [debug] 200 OK (0.000836s, 1196.172/s).
+[Sun Oct 27 14:05:12 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:05:12 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:05:12 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:05:12 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:05:12 2013] [debug] 200 OK (0.000897s, 1114.827/s).
+[Sun Oct 27 14:05:33 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:05:33 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:05:33 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:05:33 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:05:33 2013] [debug] 200 OK (0.001418s, 705.219/s).
+[Sun Oct 27 14:23:30 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:23:30 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:23:30 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:23:30 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:23:30 2013] [debug] 200 OK (0.001175s, 851.064/s).
+[Sun Oct 27 14:24:08 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:24:08 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:24:08 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:24:08 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:24:08 2013] [debug] 200 OK (0.000883s, 1132.503/s).
+[Sun Oct 27 14:24:33 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:24:33 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:24:33 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:24:33 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:24:33 2013] [debug] 200 OK (0.000862s, 1160.093/s).
+[Sun Oct 27 14:25:37 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:25:37 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:25:37 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:25:37 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:25:37 2013] [debug] 200 OK (0.001563s, 639.795/s).
+[Sun Oct 27 14:25:41 2013] [debug] POST "/process".
+[Sun Oct 27 14:25:41 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:25:41 2013] [debug] 302 Found (0.001332s, 750.751/s).
+[Sun Oct 27 14:25:41 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:25:41 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:25:41 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:25:41 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:25:41 2013] [debug] 200 OK (0.001329s, 752.445/s).
+[Sun Oct 27 14:25:48 2013] [debug] POST "/process".
+[Sun Oct 27 14:25:48 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:25:48 2013] [debug] 302 Found (0.004769s, 209.688/s).
+[Sun Oct 27 14:25:48 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:25:48 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:25:48 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:25:48 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:25:48 2013] [debug] 200 OK (0.000857s, 1166.861/s).
+[Sun Oct 27 14:26:19 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:26:19 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:26:19 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:26:19 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:26:19 2013] [debug] 200 OK (0.002753s, 363.240/s).
+[Sun Oct 27 14:26:52 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:26:52 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:26:52 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:26:52 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:26:52 2013] [debug] 200 OK (0.001296s, 771.605/s).
+[Sun Oct 27 14:27:01 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:27:01 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:27:01 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:27:01 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:27:01 2013] [debug] 200 OK (0.002771s, 360.881/s).
+[Sun Oct 27 14:27:14 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:27:14 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:27:14 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:27:14 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:27:14 2013] [debug] 200 OK (0.001600s, 625.000/s).
+[Sun Oct 27 14:27:58 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:27:58 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:27:58 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:27:58 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:27:58 2013] [debug] 200 OK (0.000871s, 1148.106/s).
+[Sun Oct 27 14:28:02 2013] [debug] POST "/process".
+[Sun Oct 27 14:28:02 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:28:02 2013] [debug] 302 Found (0.001297s, 771.010/s).
+[Sun Oct 27 14:28:02 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:28:02 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:28:02 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:28:02 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:28:02 2013] [debug] 200 OK (0.001011s, 989.120/s).
+[Sun Oct 27 14:28:22 2013] [debug] POST "/process".
+[Sun Oct 27 14:28:22 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:28:22 2013] [debug] 302 Found (0.000883s, 1132.503/s).
+[Sun Oct 27 14:28:22 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:28:22 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:28:22 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:28:22 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:28:22 2013] [debug] 200 OK (0.000864s, 1157.407/s).
+[Sun Oct 27 14:28:32 2013] [debug] GET "/".
+[Sun Oct 27 14:28:32 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:28:32 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 14:28:32 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:28:32 2013] [debug] 200 OK (0.001440s, 694.444/s).
+[Sun Oct 27 14:29:07 2013] [debug] POST "/process".
+[Sun Oct 27 14:29:07 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:29:07 2013] [debug] 302 Found (0.001071s, 933.707/s).
+[Sun Oct 27 14:29:07 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:29:07 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:29:07 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:29:07 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:29:07 2013] [debug] 200 OK (0.000857s, 1166.861/s).
+[Sun Oct 27 14:29:40 2013] [debug] GET "/".
+[Sun Oct 27 14:29:40 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:29:40 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 14:29:40 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:29:40 2013] [debug] 200 OK (0.001931s, 517.866/s).
+[Sun Oct 27 14:29:46 2013] [debug] POST "/process".
+[Sun Oct 27 14:29:46 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:29:46 2013] [debug] 302 Found (0.001776s, 563.063/s).
+[Sun Oct 27 14:29:46 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:29:46 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:29:46 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:29:46 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:29:46 2013] [debug] 200 OK (0.001784s, 560.538/s).
+[Sun Oct 27 14:30:10 2013] [debug] POST "/process".
+[Sun Oct 27 14:30:10 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:30:10 2013] [debug] 302 Found (0.004347s, 230.044/s).
+[Sun Oct 27 14:30:10 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:30:10 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:30:10 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:30:10 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:30:10 2013] [debug] 200 OK (0.001832s, 545.852/s).
+[Sun Oct 27 14:30:50 2013] [debug] POST "/process".
+[Sun Oct 27 14:30:50 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:30:50 2013] [debug] 302 Found (0.004281s, 233.590/s).
+[Sun Oct 27 14:30:50 2013] [debug] GET "/files/test".
+[Sun Oct 27 14:30:50 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:30:50 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:30:50 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:30:50 2013] [debug] 200 OK (0.001387s, 720.981/s).
+[Sun Oct 27 14:31:15 2013] [debug] GET "/".
+[Sun Oct 27 14:31:15 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:31:15 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 14:31:15 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:31:15 2013] [debug] 200 OK (0.004524s, 221.043/s).
+[Sun Oct 27 14:31:28 2013] [debug] POST "/process".
+[Sun Oct 27 14:31:28 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:31:28 2013] [debug] 302 Found (0.001319s, 758.150/s).
+[Sun Oct 27 14:31:28 2013] [debug] GET "/files/lol".
+[Sun Oct 27 14:31:28 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:31:28 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:31:28 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:31:28 2013] [debug] 200 OK (0.000837s, 1194.743/s).
+[Sun Oct 27 14:36:24 2013] [info] Listening at "http://*:3000".
+[Sun Oct 27 14:41:02 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 27 14:41:02 2013] [debug] POST "/process".
+[Sun Oct 27 14:41:02 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:41:02 2013] [debug] 302 Found (0.001978s, 505.561/s).
+[Sun Oct 27 14:41:02 2013] [debug] GET "/files/lol".
+[Sun Oct 27 14:41:02 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:41:02 2013] [debug] Rendering template "pasted.html.ep".
+[Sun Oct 27 14:41:02 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Oct 27 14:41:02 2013] [debug] 200 OK (0.005191s, 192.641/s).
+[Sun Oct 27 14:50:30 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 27 14:50:30 2013] [debug] GET "/".
+[Sun Oct 27 14:50:30 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:50:30 2013] [debug] Rendering template "form.html.ep".
+[Sun Oct 27 14:50:30 2013] [debug] Rendering template "layouts/paypal.html.ep".
+[Sun Oct 27 14:50:30 2013] [debug] 200 OK (0.007118s, 140.489/s).
+[Sun Oct 27 14:51:30 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 27 14:51:30 2013] [debug] GET "/".
+[Sun Oct 27 14:51:30 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:51:30 2013] [debug] Rendering template "form.html.ep".
+[Sun Oct 27 14:51:30 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Oct 27 14:51:30 2013] [debug] Rendering template "layouts/paypal.html.ep".
+[Sun Oct 27 14:51:30 2013] [debug] 200 OK (0.009466s, 105.641/s).
+[Sun Oct 27 14:51:31 2013] [debug] GET "/".
+[Sun Oct 27 14:51:31 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:51:31 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 14:51:31 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:51:31 2013] [debug] Rendering cached template "layouts/paypal.html.ep".
+[Sun Oct 27 14:51:31 2013] [debug] 200 OK (0.006502s, 153.799/s).
+[Sun Oct 27 14:51:33 2013] [debug] GET "/".
+[Sun Oct 27 14:51:33 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:51:33 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 14:51:33 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:51:33 2013] [debug] Rendering cached template "layouts/paypal.html.ep".
+[Sun Oct 27 14:51:33 2013] [debug] 200 OK (0.002229s, 448.632/s).
+[Sun Oct 27 14:52:19 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 27 14:52:19 2013] [debug] GET "/files/lol".
+[Sun Oct 27 14:52:19 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:52:19 2013] [debug] Rendering template "pasted.html.ep".
+[Sun Oct 27 14:52:19 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Oct 27 14:52:19 2013] [debug] 200 OK (0.006241s, 160.231/s).
+[Sun Oct 27 14:53:55 2013] [info] Listening at "http://*:3000".
+[Sun Oct 27 14:56:13 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 27 14:56:13 2013] [debug] GET "/files/lol".
+[Sun Oct 27 14:56:13 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:56:13 2013] [debug] Rendering template "pasted.html.ep".
+[Sun Oct 27 14:56:13 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Oct 27 14:56:13 2013] [debug] 200 OK (0.008741s, 114.403/s).
+[Sun Oct 27 14:56:43 2013] [debug] GET "/".
+[Sun Oct 27 14:56:43 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:56:43 2013] [debug] Rendering template "form.html.ep".
+[Sun Oct 27 14:56:43 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Oct 27 14:56:43 2013] [debug] 200 OK (0.005926s, 168.748/s).
+[Sun Oct 27 14:56:51 2013] [debug] POST "/process".
+[Sun Oct 27 14:56:51 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:56:51 2013] [debug] 302 Found (0.001775s, 563.380/s).
+[Sun Oct 27 14:56:51 2013] [debug] GET "/files/lol".
+[Sun Oct 27 14:56:51 2013] [debug] Routing to a callback.
+[Sun Oct 27 14:56:51 2013] [debug] Rendering cached template "pasted.html.ep".
+[Sun Oct 27 14:56:51 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 14:56:51 2013] [debug] 200 OK (0.001384s, 722.543/s).
+[Sun Oct 27 15:02:08 2013] [debug] GET "/".
+[Sun Oct 27 15:02:08 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:02:08 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:02:08 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:02:08 2013] [debug] 200 OK (0.002072s, 482.625/s).
+[Sun Oct 27 15:02:25 2013] [debug] GET "/".
+[Sun Oct 27 15:02:25 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:02:25 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:02:25 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:02:25 2013] [debug] 200 OK (0.001376s, 726.744/s).
+[Sun Oct 27 15:02:31 2013] [debug] GET "/".
+[Sun Oct 27 15:02:31 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:02:31 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:02:31 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:02:31 2013] [debug] 200 OK (0.004582s, 218.245/s).
+[Sun Oct 27 15:02:42 2013] [debug] GET "/".
+[Sun Oct 27 15:02:42 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:02:42 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:02:42 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:02:42 2013] [debug] 200 OK (0.001967s, 508.388/s).
+[Sun Oct 27 15:02:46 2013] [debug] GET "/".
+[Sun Oct 27 15:02:46 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:02:46 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:02:46 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:02:46 2013] [debug] 200 OK (0.002096s, 477.099/s).
+[Sun Oct 27 15:02:50 2013] [debug] GET "/".
+[Sun Oct 27 15:02:50 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:02:50 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:02:50 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:02:50 2013] [debug] 200 OK (0.001427s, 700.771/s).
+[Sun Oct 27 15:02:55 2013] [debug] GET "/".
+[Sun Oct 27 15:02:55 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:02:55 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:02:55 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:02:55 2013] [debug] 200 OK (0.004864s, 205.592/s).
+[Sun Oct 27 15:03:02 2013] [debug] GET "/".
+[Sun Oct 27 15:03:02 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:03:02 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:03:02 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:03:02 2013] [debug] 200 OK (0.001448s, 690.608/s).
+[Sun Oct 27 15:05:20 2013] [debug] GET "/".
+[Sun Oct 27 15:05:20 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:05:20 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:05:20 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:05:20 2013] [debug] 200 OK (0.003499s, 285.796/s).
+[Sun Oct 27 15:05:28 2013] [debug] GET "/".
+[Sun Oct 27 15:05:28 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:05:28 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:05:28 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:05:28 2013] [debug] 200 OK (0.001503s, 665.336/s).
+[Sun Oct 27 15:05:42 2013] [debug] GET "/".
+[Sun Oct 27 15:05:42 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:05:42 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:05:42 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:05:42 2013] [debug] 200 OK (0.003023s, 330.797/s).
+[Sun Oct 27 15:05:49 2013] [debug] GET "/".
+[Sun Oct 27 15:05:49 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:05:49 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:05:49 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:05:49 2013] [debug] 200 OK (0.001831s, 546.150/s).
+[Sun Oct 27 15:06:04 2013] [debug] GET "/".
+[Sun Oct 27 15:06:04 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:06:04 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:06:04 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:06:04 2013] [debug] 200 OK (0.002011s, 497.265/s).
+[Sun Oct 27 15:06:08 2013] [debug] GET "/".
+[Sun Oct 27 15:06:08 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:06:08 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:06:08 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:06:08 2013] [debug] 200 OK (0.004853s, 206.058/s).
+[Sun Oct 27 15:06:13 2013] [debug] GET "/".
+[Sun Oct 27 15:06:13 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:06:13 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:06:13 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:06:13 2013] [debug] 200 OK (0.002529s, 395.413/s).
+[Sun Oct 27 15:06:20 2013] [debug] GET "/".
+[Sun Oct 27 15:06:20 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:06:20 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:06:20 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:06:20 2013] [debug] 200 OK (0.001939s, 515.730/s).
+[Sun Oct 27 15:06:34 2013] [debug] GET "/".
+[Sun Oct 27 15:06:34 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:06:34 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:06:34 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:06:34 2013] [debug] 200 OK (0.001474s, 678.426/s).
+[Sun Oct 27 15:06:39 2013] [debug] GET "/".
+[Sun Oct 27 15:06:39 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:06:39 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:06:39 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:06:39 2013] [debug] 200 OK (0.002498s, 400.320/s).
+[Sun Oct 27 15:06:47 2013] [debug] GET "/".
+[Sun Oct 27 15:06:47 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:06:47 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:06:47 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:06:47 2013] [debug] 200 OK (0.003312s, 301.932/s).
+[Sun Oct 27 15:06:58 2013] [debug] GET "/".
+[Sun Oct 27 15:06:58 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:06:58 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:06:58 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:06:58 2013] [debug] 200 OK (0.001469s, 680.735/s).
+[Sun Oct 27 15:07:32 2013] [debug] GET "/".
+[Sun Oct 27 15:07:32 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:07:32 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:07:32 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:07:32 2013] [debug] 200 OK (0.002048s, 488.281/s).
+[Sun Oct 27 15:07:48 2013] [debug] GET "/".
+[Sun Oct 27 15:07:48 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:07:48 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:07:48 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:07:48 2013] [debug] 200 OK (0.001631s, 613.121/s).
+[Sun Oct 27 15:08:02 2013] [debug] GET "/".
+[Sun Oct 27 15:08:02 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:08:02 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:08:02 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:08:02 2013] [debug] 200 OK (0.001997s, 500.751/s).
+[Sun Oct 27 15:10:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Oct 27 15:10:04 2013] [debug] GET "/".
+[Sun Oct 27 15:10:04 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:10:04 2013] [debug] Rendering template "form.html.ep".
+[Sun Oct 27 15:10:04 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Oct 27 15:10:04 2013] [debug] 200 OK (0.009334s, 107.135/s).
+[Sun Oct 27 15:10:47 2013] [debug] GET "/".
+[Sun Oct 27 15:10:47 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:10:47 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:10:47 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:10:47 2013] [debug] 200 OK (0.001496s, 668.449/s).
+[Sun Oct 27 15:11:08 2013] [debug] GET "/".
+[Sun Oct 27 15:11:08 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:11:08 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:11:08 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:11:08 2013] [debug] 200 OK (0.003787s, 264.061/s).
+[Sun Oct 27 15:11:12 2013] [debug] GET "/".
+[Sun Oct 27 15:11:12 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:11:12 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:11:12 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:11:12 2013] [debug] 200 OK (0.002111s, 473.709/s).
+[Sun Oct 27 15:11:20 2013] [debug] GET "/".
+[Sun Oct 27 15:11:20 2013] [debug] Routing to a callback.
+[Sun Oct 27 15:11:20 2013] [debug] Rendering cached template "form.html.ep".
+[Sun Oct 27 15:11:20 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Oct 27 15:11:20 2013] [debug] 200 OK (0.008074s, 123.854/s).
+[Sat Nov 23 16:57:40 2013] [info] Listening at "http://*:3000".
+[Sat Nov 23 16:57:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Nov 23 16:57:44 2013] [debug] GET "/".
+[Sat Nov 23 16:57:44 2013] [debug] Routing to a callback.
+[Sat Nov 23 16:57:44 2013] [debug] Rendering template "form.html.ep".
+[Sat Nov 23 16:57:44 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Nov 23 16:57:44 2013] [debug] 200 OK (0.063410s, 15.770/s).
+[Sat Nov 23 16:58:13 2013] [debug] POST "/process".
+[Sat Nov 23 16:58:13 2013] [debug] Routing to a callback.
+[Sat Nov 23 16:58:13 2013] [debug] 302 Found (0.020026s, 49.935/s).
+[Sat Nov 23 16:58:13 2013] [debug] GET "/files/pute".
+[Sat Nov 23 16:58:13 2013] [debug] Routing to a callback.
+[Sat Nov 23 16:58:13 2013] [debug] Rendering template "pasted.html.ep".
+[Sat Nov 23 16:58:13 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Nov 23 16:58:13 2013] [debug] 200 OK (0.072523s, 13.789/s).
