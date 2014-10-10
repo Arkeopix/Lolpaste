@@ -1,3 +1,0 @@
-#!/usr/bin/sh
-
-./paste.pl daemon -l https://*:666 -m production
