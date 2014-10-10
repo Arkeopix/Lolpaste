@@ -1,7 +1,0 @@
-% layout 'default';
-%=t h1 => 'LolPaste'
-  <p>Here is your paste !</p>
-  <div id="pasted">
-  %= $poil
-  <br/>
-  </div>
