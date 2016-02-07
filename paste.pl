@@ -42,7 +42,7 @@ sub process_post {
     my $title          = $self->param('Title');
     my $type           = $self->param('Type');
     my $text           = $self->param('Text');
-    my $digest_post_id = md5_hex( $title . $type . $text . time );
+    my $digest_post_id = md5_hex( $title . $type . time );
 
     $self->redis->hset( $digest_post_id, 'title', $title );
     $self->redis->hset( $digest_post_id, 'type',  $type );

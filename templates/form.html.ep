@@ -1,6 +1,6 @@
 % layout 'default';
     %= tag 'div' => id => "form" => begin
-      %= form_for '/process' => (method => 'post') => begin
+      %= form_for '/process' => (method => 'post') => id => 'form' => begin
       %= label_for Title => 'Title:' 
       %= text_field 'Title'
       %= tag 'br'
@@ -13,6 +13,6 @@
       %= label_for Text => 'Text:'
       %= text_area 'Text', rows => 10, id =>'flex'
 	  %= tag 'br'
-      %= submit_button 'click', id => 'button'
+      %= submit_button 'send', id => 'button'
       %= end
     % end

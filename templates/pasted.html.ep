@@ -1,5 +1,5 @@
 % layout 'default';
   %= tag div => id => pasted => begin
     %= tag div => id => title => @$file_info[1]
-    %= tag div => id => text => class => @$file_info[3] => @$file_info[5]
+    %= tag div => id => text => class => @$file_info[5] => @$file_info[3]
   %= end
