@@ -1,14 +1,18 @@
 % layout 'default';
-%=t h1 => 'LolPaste'
-    <div id="form" />
-    %=t h1 => 'Let the magic happen'
-    %= form_for '/process' => (method => 'post') => begin
-    %= label_for Title => 'Title:' 
-    %= text_field 'Title'
-    <br/>
-    %= label_for Text => 'Text:'
-    %= text_area 'Text', rows => 10, id =>'flex'
-    <br/>
-    %= submit_button 'click', id => 'button'
-    %= end
-   </div>
+    %= tag 'div' => id => "form" => begin
+      %= form_for '/process' => (method => 'post') => begin
+      %= label_for Title => 'Title:' 
+      %= text_field 'Title'
+      %= tag 'br'
+      %= label_for Type => 'Type:'
+      %= t select => name => Type => begin
+        %= t option => value => "plain_text" => 'Plain Text'
+        %= t option => value => "javascript" => 'Javascript'
+      %= end
+      %= tag 'br'
+      %= label_for Text => 'Text:'
+      %= text_area 'Text', rows => 10, id =>'flex'
+	  %= tag 'br'
+      %= submit_button 'click', id => 'button'
+      %= end
+    % end
