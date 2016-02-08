@@ -4,7 +4,6 @@ use warnings;
 use Getopt::Long;
 use Mojo::DOM;
 use IO::Compress::Gzip qw(gzip $GzipError);
-use IO::Uncompress::Gunzip qw(gunzip $GunzipError);
 use MIME::Base64;
 use WWW::Mechanize;
 

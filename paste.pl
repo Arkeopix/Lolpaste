@@ -2,14 +2,10 @@
 use strict;
 use warnings;
 use Digest::MD5 qw( md5_hex );
-use IO::Compress::Gzip qw(gzip $GzipError);
 use IO::Uncompress::Gunzip qw(gunzip $GunzipError);
 use MIME::Base64;
 use Mojolicious::Lite;
-use Mojo::Log;
 use Redis;
-
-my $log = Mojo::Log->new();
 
 #####################################################################
 # App setup                                                         #
@@ -69,4 +65,3 @@ sub process_post {
 }
 
 app->start;
-
