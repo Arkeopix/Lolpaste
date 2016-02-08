@@ -1,8 +1,11 @@
 #! /usr/bin/perl
 use strict;
 use warnings;
-use WWW::Mechanize;
 use Getopt::Long;
+use IO::Compress::Gzip qw(gzip $GzipError);
+use IO::Uncompress::Gunzip qw(gunzip $GunzipError);
+use MIME::Base64;
+use WWW::Mechanize;
 
 sub send_paste {
     my $params        = shift;
@@ -26,12 +29,20 @@ sub send_paste {
         exit -1;
     }
 
-    $mech->submit_form(
+    #	print $lolpaste_conf{text} . "\n";
+
+    my $text        = $lolpaste_conf{text};
+    my $gzip_output = $text;
+    gzip \$text, \$gzip_output
+      || die $GzipError;
+
+	$mech->submit_form(
         form_id => 'form',
         fields  => {
             Title => $lolpaste_conf{title},
-            Type  => $lolpaste_conf{type},
-            Text  => $lolpaste_conf{text}
+			Type  => $lolpaste_conf{type},
+			Text  => encode_base64($gzip_output),
+            CLI   => 1,
         },
     );
     if ( !$mech->success ) {
