@@ -2,6 +2,7 @@
 use strict;
 use warnings;
 use Getopt::Long;
+use Mojo::DOM;
 use IO::Compress::Gzip qw(gzip $GzipError);
 use IO::Uncompress::Gunzip qw(gunzip $GunzipError);
 use MIME::Base64;
@@ -22,10 +23,9 @@ sub send_paste {
     }
 
     if (   $lolpaste_conf{title} eq ''
-        || $lolpaste_conf{type} eq ''
         || $lolpaste_conf{text} eq '' )
     {
-        print "title type and text must be present\n";
+        print "title and text must be present\n";
         exit -1;
     }
 
@@ -36,12 +36,12 @@ sub send_paste {
     gzip \$text, \$gzip_output
       || die $GzipError;
 
-	$mech->submit_form(
+    $mech->submit_form(
         form_id => 'form',
         fields  => {
             Title => $lolpaste_conf{title},
-			Type  => $lolpaste_conf{type},
-			Text  => encode_base64($gzip_output),
+            Type  => $lolpaste_conf{type},
+            Text  => encode_base64($gzip_output),
             CLI   => 1,
         },
     );
@@ -50,6 +50,24 @@ sub send_paste {
     }
     print "You can now share your paste with the following uri:\n"
       . $mech->response->request->uri->as_string, "\n";
+}
+
+sub get_paste {
+    my $params        = shift;
+    my %lolpaste_conf = %$params;
+
+    my $mech = WWW::Mechanize->new;
+    $mech->get( 'http://127.0.0.1:3000/' . $lolpaste_conf{download} );
+    my $DOM  = Mojo::DOM->new( $mech->content );
+    my $text = $DOM->find('pre')->[0]->text;
+    if ( $lolpaste_conf{output_file} ) {
+        open my $fh, '>', $lolpaste_conf{output_file} || die $!;
+        print $fh $text;
+        close $fh;
+    }
+    else {
+        print $text;
+    }
 }
 
 my %lolpaste_conf = (
@@ -70,13 +88,14 @@ if ( $#ARGV == -1 ) {
       . "\t--type [type]\n"
       . "\t--text [text]\n"
       . "\t--input_file [file]\n"
-	  . "commands_download:\n"
-	  . "\t--output_file [file]\n";
-	exit 0;
+      . "commands_download:\n"
+      . "\t--output_file [file]\n";
+    exit 0;
 }
 
 GetOptions( \%lolpaste_conf, 'title=s', 'type=s', 'text=s', 'input_file=s',
     'output_file=s', 'download=s', 'upload' )
   or die 'Bad option';
 
-send_paste(\%lolpaste_conf) if $lolpaste_conf{upload};
+send_paste( \%lolpaste_conf ) if $lolpaste_conf{upload};
+get_paste( \%lolpaste_conf )  if $lolpaste_conf{download};

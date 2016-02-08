@@ -26,11 +26,11 @@ helper redis =>
   sub { state $redis = Redis->new( server => '127.0.0.1:6379' ); };
 
 helper gunzip => sub {
-    my ($self, $base64_data) = @_;
-	my $data = decode_base64($base64_data);
+    my ( $self, $base64_data ) = @_;
+    my $data = decode_base64($base64_data);
     my $uncompressed;
     gunzip \$data, \$uncompressed || die $GunzipError;
-	return $uncompressed;
+    return $uncompressed;
 };
 
 #####################################################################
@@ -48,31 +48,23 @@ sub display_paste {
     my $self = shift;
 
     my %file_info = $self->redis->hgetall( $self->param('digest_id') );
-	
-	$log->info( $file_info{title} );
-	$log->info( $file_info{type} );
-	$log->info( $file_info{text} );
-	return $self->render('pasted', file_info => \%file_info );
+    return $self->render( 'pasted', file_info => \%file_info );
 }
 
 sub process_post {
     my $self  = shift;
     my $title = $self->param('Title');
-	my $type  =  $self->param('Type');
+    my $type  = $self->param('Type');
     my $text  = $self->param('Text');
 
-	# $log->info( $title );
-	# $log->info( $type  );
-	# $log->info( $text  );
-	
     $text = $self->gunzip($text) if $self->param('CLI');
 
     my $digest_post_id = md5_hex( $title . $type . time );
 
     $self->redis->hset( $digest_post_id, 'title', $title );
-	$self->redis->hset( $digest_post_id, 'type', $type );
+    $self->redis->hset( $digest_post_id, 'type',  $type );
     $self->redis->hset( $digest_post_id, 'text',  $text );
-	$self->redis->expire( $digest_post_id, 86400);
+    $self->redis->expire( $digest_post_id, 86400 );
     return $self->redirect_to("/$digest_post_id");
 }
 
